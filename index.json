@@ -1,0 +1,4256 @@
+{
+ "name": "forge-skills",
+ "description": "The Abra skill library - 500+ ready-made English skills for the Abra Desktop agent.",
+ "version": 1,
+ "generated": "2026-10-09T19:59:26.033Z",
+ "count": 515,
+ "categories": [
+  {
+   "id": "web-development",
+   "label": "Web Development",
+   "count": 24
+  },
+  {
+   "id": "backend-apis",
+   "label": "Backend and APIs",
+   "count": 24
+  },
+  {
+   "id": "databases",
+   "label": "Databases",
+   "count": 20
+  },
+  {
+   "id": "mobile-apps",
+   "label": "Mobile Apps",
+   "count": 20
+  },
+  {
+   "id": "game-development",
+   "label": "Game Development",
+   "count": 22
+  },
+  {
+   "id": "devops-cloud",
+   "label": "DevOps and Cloud",
+   "count": 22
+  },
+  {
+   "id": "ai-machine-learning",
+   "label": "AI and Machine Learning",
+   "count": 24
+  },
+  {
+   "id": "data-science",
+   "label": "Data Science",
+   "count": 22
+  },
+  {
+   "id": "programming-languages",
+   "label": "Programming Languages",
+   "count": 27
+  },
+  {
+   "id": "software-architecture",
+   "label": "Software Architecture",
+   "count": 20
+  },
+  {
+   "id": "security",
+   "label": "Security",
+   "count": 20
+  },
+  {
+   "id": "design-ux",
+   "label": "Design and UX",
+   "count": 22
+  },
+  {
+   "id": "writing-content",
+   "label": "Writing and Content",
+   "count": 24
+  },
+  {
+   "id": "marketing-growth",
+   "label": "Marketing and Growth",
+   "count": 24
+  },
+  {
+   "id": "business-strategy",
+   "label": "Business and Strategy",
+   "count": 22
+  },
+  {
+   "id": "productivity",
+   "label": "Productivity",
+   "count": 18
+  },
+  {
+   "id": "education-tutoring",
+   "label": "Education and Tutoring",
+   "count": 18
+  },
+  {
+   "id": "creative-media",
+   "label": "Creative and Media",
+   "count": 22
+  },
+  {
+   "id": "office-documents",
+   "label": "Office and Documents",
+   "count": 18
+  },
+  {
+   "id": "communication",
+   "label": "Communication",
+   "count": 16
+  },
+  {
+   "id": "finance-crypto",
+   "label": "Finance and Crypto",
+   "count": 20
+  },
+  {
+   "id": "ecommerce",
+   "label": "Ecommerce",
+   "count": 16
+  },
+  {
+   "id": "career-development",
+   "label": "Career Development",
+   "count": 16
+  },
+  {
+   "id": "automation-scripting",
+   "label": "Automation and Scripting",
+   "count": 20
+  },
+  {
+   "id": "iot-electronics",
+   "label": "IoT and Electronics",
+   "count": 14
+  }
+ ],
+ "skills": [
+  {
+   "id": "react-fundamentals",
+   "title": "React Fundamentals",
+   "description": "Build clean React component trees with props, composition, and predictable data flow.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/react-fundamentals.md"
+  },
+  {
+   "id": "react-hooks",
+   "title": "React Hooks Mastery",
+   "description": "Write correct, performant React function components using modern hooks and clean state patterns.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/react-hooks.md"
+  },
+  {
+   "id": "react-performance",
+   "title": "React Performance Tuning",
+   "description": "Profile and fix slow React apps: render bloat, wasted work, and long commits.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/react-performance.md"
+  },
+  {
+   "id": "nextjs-app-router",
+   "title": "Next.js App Router",
+   "description": "Ship Next.js App Router apps with server components, caching, and clean route structure.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/nextjs-app-router.md"
+  },
+  {
+   "id": "vue-composition",
+   "title": "Vue 3 Composition API",
+   "description": "Build Vue 3 apps with the Composition API, composables, and reactive state discipline.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/vue-composition.md"
+  },
+  {
+   "id": "svelte-kit",
+   "title": "SvelteKit Apps",
+   "description": "Build fast Svelte/SvelteKit apps with stores, load functions, and SSR-aware patterns.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/svelte-kit.md"
+  },
+  {
+   "id": "angular-architecture",
+   "title": "Angular Architecture",
+   "description": "Structure modern Angular apps with standalone components, signals, and dependency injection.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/angular-architecture.md"
+  },
+  {
+   "id": "tailwind-css",
+   "title": "Tailwind CSS Styling",
+   "description": "Style interfaces with Tailwind utility classes, design tokens, and disciplined component patterns.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/tailwind-css.md"
+  },
+  {
+   "id": "css-layout",
+   "title": "CSS Flexbox and Grid",
+   "description": "Lay out any interface confidently with flexbox, grid, and logical properties.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/css-layout.md"
+  },
+  {
+   "id": "css-animations",
+   "title": "CSS Motion and Animation",
+   "description": "Craft smooth, cheap animations with transitions, keyframes, and modern motion APIs.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/css-animations.md"
+  },
+  {
+   "id": "responsive-design",
+   "title": "Responsive Web Design",
+   "description": "Build mobile-first layouts that adapt gracefully from phones to ultrawide screens.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/responsive-design.md"
+  },
+  {
+   "id": "web-accessibility",
+   "title": "Web Accessibility (WCAG)",
+   "description": "Make interfaces usable by everyone with semantic HTML, ARIA, and keyboard-first patterns.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/web-accessibility.md"
+  },
+  {
+   "id": "web-seo",
+   "title": "On-Page SEO",
+   "description": "Improve search visibility with semantic structure, metadata, and crawlable content.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/web-seo.md"
+  },
+  {
+   "id": "web-performance",
+   "title": "Web Performance Optimization",
+   "description": "Speed up sites by attacking LCP, CLS, INP, and payload weight.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/web-performance.md"
+  },
+  {
+   "id": "pwa-development",
+   "title": "Progressive Web Apps",
+   "description": "Build installable, offline-capable web apps with service workers and app manifests.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/pwa-development.md"
+  },
+  {
+   "id": "typescript-web",
+   "title": "TypeScript for Web Apps",
+   "description": "Type web frontends rigorously with generics, discriminated unions, and strict configs.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/typescript-web.md"
+  },
+  {
+   "id": "state-management",
+   "title": "Frontend State Management",
+   "description": "Choose and implement client state that stays debuggable as apps grow.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/state-management.md"
+  },
+  {
+   "id": "form-validation",
+   "title": "Forms and Validation UX",
+   "description": "Build forms that validate on the schema, sync with the server, and fail kindly.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/form-validation.md"
+  },
+  {
+   "id": "data-tables",
+   "title": "Data Tables and Grids",
+   "description": "Build sortable, filterable, paginated tables that stay fast with large datasets.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/data-tables.md"
+  },
+  {
+   "id": "charts-visualization",
+   "title": "Web Charts and Visualization",
+   "description": "Render charts that answer questions: right encodings, legends, and interactions.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/charts-visualization.md"
+  },
+  {
+   "id": "webgl-threejs",
+   "title": "Three.js 3D Scenes",
+   "description": "Build interactive 3D scenes in the browser with three.js, cameras, and lighting.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/webgl-threejs.md"
+  },
+  {
+   "id": "web-scraping-pipelines",
+   "title": "Web Scraping Responsibly",
+   "description": "Extract data from websites with respectful, resilient scraping pipelines.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/web-scraping-pipelines.md"
+  },
+  {
+   "id": "browser-extensions",
+   "title": "Browser Extensions",
+   "description": "Build cross-browser extensions with manifest v3, content scripts, and messaging.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/browser-extensions.md"
+  },
+  {
+   "id": "websocket-realtime",
+   "title": "Realtime Web Channels",
+   "description": "Add live updates with WebSockets, SSE, and resilient reconnection logic.",
+   "category": "web-development",
+   "categoryLabel": "Web Development",
+   "file": "skills/web-development/websocket-realtime.md"
+  },
+  {
+   "id": "node-express",
+   "title": "Express REST Services",
+   "description": "Build Express services with clean middleware chains, routing, and error handling.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/node-express.md"
+  },
+  {
+   "id": "fastify",
+   "title": "Fastify APIs",
+   "description": "Build high-throughput Fastify services with schemas, plugins, and encapsulation.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/fastify.md"
+  },
+  {
+   "id": "django-rest",
+   "title": "Django REST Framework",
+   "description": "Design Django REST APIs with serializers, viewsets, and permission flows.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/django-rest.md"
+  },
+  {
+   "id": "fastapi",
+   "title": "FastAPI Python Services",
+   "description": "Build typed, async FastAPI services with pydantic models and dependency injection.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/fastapi.md"
+  },
+  {
+   "id": "spring-boot",
+   "title": "Spring Boot Services",
+   "description": "Build Spring Boot services with sensible layers, configuration, and observability.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/spring-boot.md"
+  },
+  {
+   "id": "rails-api",
+   "title": "Rails API Apps",
+   "description": "Build Rails API apps with conventions, strong params, and serializer discipline.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/rails-api.md"
+  },
+  {
+   "id": "laravel-api",
+   "title": "Laravel APIs",
+   "description": "Build Laravel APIs with Eloquent, form requests, and resource classes.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/laravel-api.md"
+  },
+  {
+   "id": "go-services",
+   "title": "Go Network Services",
+   "description": "Build Go services with the standard library, clean handlers, and honest errors.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/go-services.md"
+  },
+  {
+   "id": "graphql-apis",
+   "title": "GraphQL API Design",
+   "description": "Design GraphQL schemas with resolvers, dataloaders, and safe complexity limits.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/graphql-apis.md"
+  },
+  {
+   "id": "rest-api-design",
+   "title": "REST API Design",
+   "description": "Model resources, verbs, status codes, and pagination that clients enjoy.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/rest-api-design.md"
+  },
+  {
+   "id": "api-versioning",
+   "title": "API Versioning and Evolution",
+   "description": "Evolve APIs without breaking clients: deprecation, expansion, contracts.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/api-versioning.md"
+  },
+  {
+   "id": "authentication-jwt",
+   "title": "JWT and Session Auth",
+   "description": "Implement login flows with access/refresh tokens or server sessions, done right.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/authentication-jwt.md"
+  },
+  {
+   "id": "oauth2-oidc",
+   "title": "OAuth2 and OIDC Integration",
+   "description": "Wire apps to identity providers with authorization-code flows and PKCE.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/oauth2-oidc.md"
+  },
+  {
+   "id": "rate-limiting",
+   "title": "API Rate Limiting",
+   "description": "Protect services with fair, explainable rate limits and good client signals.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/rate-limiting.md"
+  },
+  {
+   "id": "webhooks",
+   "title": "Webhook Systems",
+   "description": "Send and receive webhooks with signatures, retries, and replay safety.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/webhooks.md"
+  },
+  {
+   "id": "grpc-services",
+   "title": "gRPC Services",
+   "description": "Define protobuf contracts and build fast internal gRPC services.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/grpc-services.md"
+  },
+  {
+   "id": "message-queues",
+   "title": "Message Queues and Streams",
+   "description": "Build decoupled systems with queues, consumers, and delivery guarantees.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/message-queues.md"
+  },
+  {
+   "id": "caching-strategies",
+   "title": "Backend Caching Strategies",
+   "description": "Layer caches (Redis, HTTP, CDN) that stay coherent and observable.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/caching-strategies.md"
+  },
+  {
+   "id": "file-uploads",
+   "title": "File Upload Handling",
+   "description": "Accept uploads safely: size caps, type sniffing, direct-to-cloud flows.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/file-uploads.md"
+  },
+  {
+   "id": "email-sending",
+   "title": "Transactional Email",
+   "description": "Send email that lands: provider integration, templates, and deliverability basics.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/email-sending.md"
+  },
+  {
+   "id": "cron-jobs",
+   "title": "Scheduled Background Jobs",
+   "description": "Run reliable cron and periodic jobs with locking, retries, and visibility.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/cron-jobs.md"
+  },
+  {
+   "id": "api-docs-openapi",
+   "title": "OpenAPI Documentation",
+   "description": "Keep OpenAPI specs honest, versioned, and useful to consumers.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/api-docs-openapi.md"
+  },
+  {
+   "id": "api-error-handling",
+   "title": "API Error Design",
+   "description": "Return errors machines can parse and humans can act on.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/api-error-handling.md"
+  },
+  {
+   "id": "payments-stripe",
+   "title": "Stripe Payment Integration",
+   "description": "Integrate Stripe checkout, subscriptions, and webhooks with correct money handling.",
+   "category": "backend-apis",
+   "categoryLabel": "Backend and APIs",
+   "file": "skills/backend-apis/payments-stripe.md"
+  },
+  {
+   "id": "sql-fundamentals",
+   "title": "SQL Fundamentals",
+   "description": "Write confident SQL: joins, aggregates, subqueries, and window functions.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/sql-fundamentals.md"
+  },
+  {
+   "id": "postgresql-admin",
+   "title": "PostgreSQL Operations",
+   "description": "Run Postgres well: tuning, vacuum, extensions, and safe ops.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/postgresql-admin.md"
+  },
+  {
+   "id": "mysql-mariadb",
+   "title": "MySQL and MariaDB",
+   "description": "Operate MySQL/MariaDB: engines, replication basics, and query tuning.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/mysql-mariadb.md"
+  },
+  {
+   "id": "sqlite-embedded",
+   "title": "SQLite Everywhere",
+   "description": "Use SQLite as an app, edge, and analysis database with its own toolbox.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/sqlite-embedded.md"
+  },
+  {
+   "id": "mongodb",
+   "title": "MongoDB Document Modeling",
+   "description": "Model documents, indexes, and aggregations that match access patterns.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/mongodb.md"
+  },
+  {
+   "id": "redis-patterns",
+   "title": "Redis Patterns",
+   "description": "Use Redis for caches, queues, locks, and rate limits without surprises.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/redis-patterns.md"
+  },
+  {
+   "id": "elasticsearch",
+   "title": "Elasticsearch Search",
+   "description": "Build search with mappings, analyzers, and relevance tuning.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/elasticsearch.md"
+  },
+  {
+   "id": "database-indexing",
+   "title": "Database Indexing Strategy",
+   "description": "Design indexes that serve queries without write amplification.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/database-indexing.md"
+  },
+  {
+   "id": "query-optimization",
+   "title": "Query Optimization",
+   "description": "Turn slow queries into fast ones with plans, statistics, and rewrites.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/query-optimization.md"
+  },
+  {
+   "id": "schema-design",
+   "title": "Relational Schema Design",
+   "description": "Design normalized schemas that age well and enforce truth.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/schema-design.md"
+  },
+  {
+   "id": "db-migrations",
+   "title": "Zero-Downtime Migrations",
+   "description": "Change live schemas without locking out users or losing data.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/db-migrations.md"
+  },
+  {
+   "id": "prisma-orm",
+   "title": "Prisma Workflows",
+   "description": "Model data in Prisma with migrations, queries, and performance sense.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/prisma-orm.md"
+  },
+  {
+   "id": "drizzle-orm",
+   "title": "Drizzle ORM",
+   "description": "Build typed SQL with Drizzle schemas, queries, and migrations.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/drizzle-orm.md"
+  },
+  {
+   "id": "query-builders",
+   "title": "SQL Query Builders",
+   "description": "Use Knex/sequelize-style builders while staying close to SQL.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/query-builders.md"
+  },
+  {
+   "id": "database-backups",
+   "title": "Backup and Restore",
+   "description": "Plan backups that actually restore: tiers, testing, and retention.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/database-backups.md"
+  },
+  {
+   "id": "replication-ha",
+   "title": "Replication and High Availability",
+   "description": "Run replicas and failover that survive real incidents.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/replication-ha.md"
+  },
+  {
+   "id": "time-series-data",
+   "title": "Time-Series Data Modeling",
+   "description": "Store and query metrics and events efficiently over time.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/time-series-data.md"
+  },
+  {
+   "id": "graph-databases",
+   "title": "Graph Databases",
+   "description": "Model highly connected data with graph thinking (Neo4j-style).",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/graph-databases.md"
+  },
+  {
+   "id": "vector-databases",
+   "title": "Vector Search and Embeddings",
+   "description": "Build similarity search with vector indexes for AI features.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/vector-databases.md"
+  },
+  {
+   "id": "data-warehousing",
+   "title": "Data Warehousing Basics",
+   "description": "Design star schemas and ETL flows for analytics at scale.",
+   "category": "databases",
+   "categoryLabel": "Databases",
+   "file": "skills/databases/data-warehousing.md"
+  },
+  {
+   "id": "react-native",
+   "title": "React Native Apps",
+   "description": "Build cross-platform apps with React Native components and native bridges.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/react-native.md"
+  },
+  {
+   "id": "expo-workflows",
+   "title": "Expo Development",
+   "description": "Ship apps fast with Expo, EAS builds, and OTA updates.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/expo-workflows.md"
+  },
+  {
+   "id": "flutter",
+   "title": "Flutter Apps",
+   "description": "Build polished cross-platform apps with Flutter widgets and Dart.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/flutter.md"
+  },
+  {
+   "id": "swift-ios",
+   "title": "SwiftUI iOS Apps",
+   "description": "Build native iOS apps with SwiftUI, state, and modern Swift.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/swift-ios.md"
+  },
+  {
+   "id": "kotlin-android",
+   "title": "Jetpack Compose Android",
+   "description": "Build native Android apps with Kotlin and Jetpack Compose.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/kotlin-android.md"
+  },
+  {
+   "id": "mobile-navigation",
+   "title": "Mobile Navigation Patterns",
+   "description": "Design navigation flows users never get lost in.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/mobile-navigation.md"
+  },
+  {
+   "id": "mobile-state",
+   "title": "Mobile App State",
+   "description": "Persist and sync mobile state that survives restarts and offline.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/mobile-state.md"
+  },
+  {
+   "id": "mobile-animation",
+   "title": "Mobile Animation Craft",
+   "description": "Animate mobile UI with native drivers and gesture-aware motion.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/mobile-animation.md"
+  },
+  {
+   "id": "push-notifications",
+   "title": "Push Notifications",
+   "description": "Implement FCM/APNs push with permissions, deep links, and quiet respect.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/push-notifications.md"
+  },
+  {
+   "id": "offline-first",
+   "title": "Offline-First Mobile",
+   "description": "Design apps that work offline and sync reliably when connected.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/offline-first.md"
+  },
+  {
+   "id": "mobile-auth",
+   "title": "Mobile Authentication",
+   "description": "Implement secure login on mobile with biometrics and safe storage.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/mobile-auth.md"
+  },
+  {
+   "id": "mobile-permissions",
+   "title": "Runtime Permissions UX",
+   "description": "Request permissions with context and recover from denial.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/mobile-permissions.md"
+  },
+  {
+   "id": "app-store-release",
+   "title": "iOS App Store Release",
+   "description": "Prepare, submit, and pass App Store review with confidence.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/app-store-release.md"
+  },
+  {
+   "id": "play-store-release",
+   "title": "Google Play Release",
+   "description": "Publish Android apps: signing, tracks, and policy compliance.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/play-store-release.md"
+  },
+  {
+   "id": "mobile-testing",
+   "title": "Mobile App Testing",
+   "description": "Test mobile apps with unit, widget, and device-level suites.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/mobile-testing.md"
+  },
+  {
+   "id": "mobile-performance",
+   "title": "Mobile Performance",
+   "description": "Keep apps fast: startup, memory, jank, and battery.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/mobile-performance.md"
+  },
+  {
+   "id": "adaptive-mobile-ui",
+   "title": "Adaptive Mobile UI",
+   "description": "Build layouts that span phones, tablets, and foldables.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/adaptive-mobile-ui.md"
+  },
+  {
+   "id": "mobile-camera",
+   "title": "Camera and Media Apps",
+   "description": "Use camera, gallery, and media APIs across platforms.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/mobile-camera.md"
+  },
+  {
+   "id": "mobile-maps",
+   "title": "Maps and Location",
+   "description": "Add maps, markers, and location features responsibly.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/mobile-maps.md"
+  },
+  {
+   "id": "app-monetization",
+   "title": "App Monetization",
+   "description": "Wire in-app purchases and ads that respect users and pass review.",
+   "category": "mobile-apps",
+   "categoryLabel": "Mobile Apps",
+   "file": "skills/mobile-apps/app-monetization.md"
+  },
+  {
+   "id": "unity-fundamentals",
+   "title": "Unity Fundamentals",
+   "description": "Build Unity games with clean scene structure, prefabs, and C# components.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/unity-fundamentals.md"
+  },
+  {
+   "id": "unity-2d",
+   "title": "Unity 2D Workflow",
+   "description": "Build 2D games: sprites, tiles, physics, and cameras.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/unity-2d.md"
+  },
+  {
+   "id": "unity-ui-toolkit",
+   "title": "Unity UI Systems",
+   "description": "Build game UI with UI Toolkit or uGUI that scales across resolutions.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/unity-ui-toolkit.md"
+  },
+  {
+   "id": "unreal-blueprints",
+   "title": "Unreal Blueprints",
+   "description": "Prototype gameplay in Unreal with Blueprints, variables, and clean graphs.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/unreal-blueprints.md"
+  },
+  {
+   "id": "unreal-cpp",
+   "title": "Unreal C++ Gameplay",
+   "description": "Write Unreal C++ gameplay code with sensible base classes.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/unreal-cpp.md"
+  },
+  {
+   "id": "godot-engine",
+   "title": "Godot 4 Games",
+   "description": "Build games in Godot 4 with scenes, nodes, and GDScript.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/godot-engine.md"
+  },
+  {
+   "id": "game-design-document",
+   "title": "Game Design Documents",
+   "description": "Write one-page GDDs that align a team before code.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/game-design-document.md"
+  },
+  {
+   "id": "level-design",
+   "title": "Level Design",
+   "description": "Design levels that teach, challenge, and land emotionally.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/level-design.md"
+  },
+  {
+   "id": "game-mechanics-design",
+   "title": "Game Mechanics Design",
+   "description": "Design mechanics and systems that produce the intended play.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/game-mechanics-design.md"
+  },
+  {
+   "id": "game-shaders",
+   "title": "Game Shaders",
+   "description": "Write shaders for looks and effects (HLSL, shader graph).",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/game-shaders.md"
+  },
+  {
+   "id": "procedural-generation",
+   "title": "Procedural Generation",
+   "description": "Generate levels, content, and variety with controllable randomness.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/procedural-generation.md"
+  },
+  {
+   "id": "game-physics",
+   "title": "Game Physics Interactions",
+   "description": "Use physics engines for feel, not just simulation.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/game-physics.md"
+  },
+  {
+   "id": "game-ai-behavior",
+   "title": "Game AI Behaviors",
+   "description": "Build believable NPCs with behavior trees, GOAP, and steering.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/game-ai-behavior.md"
+  },
+  {
+   "id": "game-audio",
+   "title": "Game Audio Design",
+   "description": "Design game sound: layers, mixers, and reactive music.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/game-audio.md"
+  },
+  {
+   "id": "game-optimization",
+   "title": "Game Performance",
+   "description": "Optimize games: draw calls, memory, and profiling discipline.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/game-optimization.md"
+  },
+  {
+   "id": "pixel-art",
+   "title": "Pixel Art Creation",
+   "description": "Create clean pixel art with palettes, clusters, and readable silhouettes.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/pixel-art.md"
+  },
+  {
+   "id": "sprite-animation",
+   "title": "2D Animation and Rigging",
+   "description": "Animate 2D characters with rigs, frames, and squash-and-stretch.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/sprite-animation.md"
+  },
+  {
+   "id": "3d-modeling-basics",
+   "title": "Blender Modeling Basics",
+   "description": "Model game-ready assets in Blender with clean topology.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/3d-modeling-basics.md"
+  },
+  {
+   "id": "character-controller",
+   "title": "Character Controllers",
+   "description": "Build game feel into movement: coyote time, jumps, and cameras.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/character-controller.md"
+  },
+  {
+   "id": "game-save-systems",
+   "title": "Game Save Systems",
+   "description": "Save and load games reliably across sessions and versions.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/game-save-systems.md"
+  },
+  {
+   "id": "multiplayer-netcode",
+   "title": "Multiplayer Netcode Basics",
+   "description": "Build networked play: replication, prediction, and lag handling.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/multiplayer-netcode.md"
+  },
+  {
+   "id": "game-monetization",
+   "title": "Game Monetization Design",
+   "description": "Monetize games ethically: cosmetics, battle passes, and ads.",
+   "category": "game-development",
+   "categoryLabel": "Game Development",
+   "file": "skills/game-development/game-monetization.md"
+  },
+  {
+   "id": "docker-containers",
+   "title": "Docker Containers",
+   "description": "Build small, reproducible images and run them predictably everywhere.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/docker-containers.md"
+  },
+  {
+   "id": "kubernetes-fundamentals",
+   "title": "Kubernetes Fundamentals",
+   "description": "Run workloads on Kubernetes with deployments, services, and probes.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/kubernetes-fundamentals.md"
+  },
+  {
+   "id": "terraform-iac",
+   "title": "Terraform Infrastructure",
+   "description": "Manage cloud infrastructure as versioned, reviewable code.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/terraform-iac.md"
+  },
+  {
+   "id": "aws-core",
+   "title": "AWS Core Services",
+   "description": "Use EC2, S3, IAM, RDS, and CloudWatch the right way.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/aws-core.md"
+  },
+  {
+   "id": "gcp-basics",
+   "title": "Google Cloud Basics",
+   "description": "Operate GCP: compute, storage, IAM, and billing hygiene.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/gcp-basics.md"
+  },
+  {
+   "id": "azure-basics",
+   "title": "Azure Basics",
+   "description": "Operate Azure: resource groups, App Service, and Entra ID.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/azure-basics.md"
+  },
+  {
+   "id": "github-actions",
+   "title": "GitHub Actions CI/CD",
+   "description": "Build pipelines that are fast, legible, and secure.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/github-actions.md"
+  },
+  {
+   "id": "ci-cd-pipelines",
+   "title": "CI/CD Pipeline Design",
+   "description": "Design pipelines with stages, gates, and fast feedback loops.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/ci-cd-pipelines.md"
+  },
+  {
+   "id": "nginx-reverse-proxy",
+   "title": "Nginx Reverse Proxy",
+   "description": "Configure nginx for routing, TLS, and static serving that scales.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/nginx-reverse-proxy.md"
+  },
+  {
+   "id": "ssl-certificates",
+   "title": "TLS Certificates",
+   "description": "Install and automate certificates with Let’s Encrypt and modern TLS.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/ssl-certificates.md"
+  },
+  {
+   "id": "monitoring-observability",
+   "title": "Monitoring and Observability",
+   "description": "See inside systems with metrics, dashboards, and sane alerts.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/monitoring-observability.md"
+  },
+  {
+   "id": "logging-pipelines",
+   "title": "Centralized Logging",
+   "description": "Ship, structure, and query logs without drowning in them.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/logging-pipelines.md"
+  },
+  {
+   "id": "linux-server-admin",
+   "title": "Linux Server Administration",
+   "description": "Administer Linux servers with systemd, users, and sane defaults.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/linux-server-admin.md"
+  },
+  {
+   "id": "shell-scripting",
+   "title": "POSIX Shell Scripting",
+   "description": "Write safe shell scripts with quoting, traps, and set -euo pipefail.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/shell-scripting.md"
+  },
+  {
+   "id": "git-advanced",
+   "title": "Advanced Git",
+   "description": "Untangle history with rebase, reflog, and surgical fixes.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/git-advanced.md"
+  },
+  {
+   "id": "release-strategies",
+   "title": "Release Strategies",
+   "description": "Ship with blue-green, canary, and rollback muscle memory.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/release-strategies.md"
+  },
+  {
+   "id": "cloud-cost",
+   "title": "Cloud Cost Optimization",
+   "description": "Cut cloud bills with rightsizing, spot, and lifecycle policies.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/cloud-cost.md"
+  },
+  {
+   "id": "serverless-patterns",
+   "title": "Serverless Patterns",
+   "description": "Build with functions and managed events while dodging the traps.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/serverless-patterns.md"
+  },
+  {
+   "id": "container-security",
+   "title": "Container Security",
+   "description": "Harden images and runtimes: scan, minimize, and isolate.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/container-security.md"
+  },
+  {
+   "id": "cloud-db-ops",
+   "title": "Managed Database Operations",
+   "description": "Operate cloud databases: sizing, failover, and connection storms.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/cloud-db-ops.md"
+  },
+  {
+   "id": "incident-response",
+   "title": "Incident Response",
+   "description": "Run incidents with roles, comms, and blameless learning.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/incident-response.md"
+  },
+  {
+   "id": "compose-stacks",
+   "title": "Docker Compose Stacks",
+   "description": "Run local and edge stacks with compose that mirror production.",
+   "category": "devops-cloud",
+   "categoryLabel": "DevOps and Cloud",
+   "file": "skills/devops-cloud/compose-stacks.md"
+  },
+  {
+   "id": "pytorch-fundamentals",
+   "title": "PyTorch Fundamentals",
+   "description": "Train and debug models with tensors, autograd, and training loops.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/pytorch-fundamentals.md"
+  },
+  {
+   "id": "tensorflow-keras",
+   "title": "TensorFlow and Keras",
+   "description": "Build and train models with Keras layers and tf.data pipelines.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/tensorflow-keras.md"
+  },
+  {
+   "id": "sklearn-classical",
+   "title": "Classical ML with scikit-learn",
+   "description": "Ship strong baselines fast with sklearn pipelines and honest CV.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/sklearn-classical.md"
+  },
+  {
+   "id": "feature-engineering",
+   "title": "Feature Engineering",
+   "description": "Craft features that carry signal: encodings, transforms, and leakage control.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/feature-engineering.md"
+  },
+  {
+   "id": "model-evaluation",
+   "title": "Model Evaluation",
+   "description": "Pick metrics that reflect reality and evaluate without fooling yourself.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/model-evaluation.md"
+  },
+  {
+   "id": "supervised-learning",
+   "title": "Supervised Learning",
+   "description": "Solve regression and classification problems end to end.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/supervised-learning.md"
+  },
+  {
+   "id": "unsupervised-learning",
+   "title": "Unsupervised Learning",
+   "description": "Find structure without labels: clustering, density, and embeddings.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/unsupervised-learning.md"
+  },
+  {
+   "id": "time-series-forecasting",
+   "title": "Time-Series Forecasting",
+   "description": "Forecast the future with lags, seasonality, and honest backtests.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/time-series-forecasting.md"
+  },
+  {
+   "id": "computer-vision",
+   "title": "Computer Vision",
+   "description": "Classify, detect, and segment images with modern vision models.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/computer-vision.md"
+  },
+  {
+   "id": "nlp-fundamentals",
+   "title": "NLP Fundamentals",
+   "description": "Work with text: tokenization, embeddings, and sequence models.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/nlp-fundamentals.md"
+  },
+  {
+   "id": "llm-prompting",
+   "title": "LLM Prompt Engineering",
+   "description": "Design prompts that are reliable, testable, and cheap to maintain.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/llm-prompting.md"
+  },
+  {
+   "id": "rag-systems",
+   "title": "RAG Systems",
+   "description": "Build retrieval-augmented generation that cites true sources.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/rag-systems.md"
+  },
+  {
+   "id": "fine-tuning-llms",
+   "title": "LLM Fine-Tuning",
+   "description": "Adapt LLMs with LoRA/QLoRA on curated datasets without breaking them.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/fine-tuning-llms.md"
+  },
+  {
+   "id": "llm-agents",
+   "title": "LLM Agents and Tools",
+   "description": "Build agents that call tools safely and recover from failures.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/llm-agents.md"
+  },
+  {
+   "id": "vector-embeddings",
+   "title": "Embeddings and Similarity",
+   "description": "Choose, evaluate, and serve embedding models for similarity features.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/vector-embeddings.md"
+  },
+  {
+   "id": "speech-recognition",
+   "title": "Speech Recognition (ASR)",
+   "description": "Transcribe audio with ASR pipelines, diarization, and subtitles.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/speech-recognition.md"
+  },
+  {
+   "id": "text-to-speech",
+   "title": "Text-to-Speech",
+   "description": "Generate natural speech with voice selection and SSML control.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/text-to-speech.md"
+  },
+  {
+   "id": "recommendation-systems",
+   "title": "Recommendation Systems",
+   "description": "Build recommenders from co-occurrence to two-tower retrieval.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/recommendation-systems.md"
+  },
+  {
+   "id": "anomaly-detection",
+   "title": "Anomaly Detection",
+   "description": "Detect anomalies in metrics, events, and user behavior.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/anomaly-detection.md"
+  },
+  {
+   "id": "mlops-deployment",
+   "title": "MLOps and Model Serving",
+   "description": "Deploy models with versioning, monitoring, and rollback.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/mlops-deployment.md"
+  },
+  {
+   "id": "model-quantization",
+   "title": "Model Quantization and Compression",
+   "description": "Shrink models for speed and memory with quantization and distillation.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/model-quantization.md"
+  },
+  {
+   "id": "generative-models",
+   "title": "Generative Models (GANs)",
+   "description": "Train and use generative models for images and data augmentation.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/generative-models.md"
+  },
+  {
+   "id": "diffusion-models",
+   "title": "Diffusion Image Generation",
+   "description": "Use and customize diffusion pipelines for image generation workflows.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/diffusion-models.md"
+  },
+  {
+   "id": "reinforcement-learning",
+   "title": "Reinforcement Learning Basics",
+   "description": "Frame problems as agents, rewards, and policies without reward hacking.",
+   "category": "ai-machine-learning",
+   "categoryLabel": "AI and Machine Learning",
+   "file": "skills/ai-machine-learning/reinforcement-learning.md"
+  },
+  {
+   "id": "pandas-wrangling",
+   "title": "Pandas Data Wrangling",
+   "description": "Clean, join, and reshape data with pandas without fighting the index.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/pandas-wrangling.md"
+  },
+  {
+   "id": "numpy-computing",
+   "title": "NumPy Computing",
+   "description": "Vectorize numeric work with arrays, broadcasting, and views.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/numpy-computing.md"
+  },
+  {
+   "id": "matplotlib-visualization",
+   "title": "Matplotlib Plotting",
+   "description": "Craft publication-quality charts with matplotlib control over every element.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/matplotlib-visualization.md"
+  },
+  {
+   "id": "seaborn-statistics",
+   "title": "Seaborn Statistical Plots",
+   "description": "Explore distributions and relationships quickly with seaborn.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/seaborn-statistics.md"
+  },
+  {
+   "id": "plotly-dashboards",
+   "title": "Plotly Interactive Dashboards",
+   "description": "Build interactive charts and dashboards with plotly and dash.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/plotly-dashboards.md"
+  },
+  {
+   "id": "statistics-fundamentals",
+   "title": "Statistics Fundamentals",
+   "description": "Apply distributions, sampling, and uncertainty without hand-waving.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/statistics-fundamentals.md"
+  },
+  {
+   "id": "hypothesis-testing",
+   "title": "Hypothesis Testing",
+   "description": "Run t-tests, chi-square, and nonparametric tests with honest assumptions.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/hypothesis-testing.md"
+  },
+  {
+   "id": "ab-testing",
+   "title": "A/B Testing",
+   "description": "Design experiments that produce decisions, not noise.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/ab-testing.md"
+  },
+  {
+   "id": "regression-analysis",
+   "title": "Regression Analysis",
+   "description": "Fit, interpret, and stress-test regression models.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/regression-analysis.md"
+  },
+  {
+   "id": "data-cleaning",
+   "title": "Data Cleaning",
+   "description": "Profile and fix messy datasets: nulls, dupes, and impossible values.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/data-cleaning.md"
+  },
+  {
+   "id": "eda-analysis",
+   "title": "Exploratory Data Analysis",
+   "description": "Explore new datasets systematically to find signal and traps.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/eda-analysis.md"
+  },
+  {
+   "id": "sql-analysts",
+   "title": "SQL for Analysts",
+   "description": "Answer product questions with SQL: funnels, cohorts, and retention.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/sql-analysts.md"
+  },
+  {
+   "id": "excel-analysis",
+   "title": "Excel Analysis",
+   "description": "Analyze data in Excel with tables, pivots, and clean modeling.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/excel-analysis.md"
+  },
+  {
+   "id": "powerbi-reports",
+   "title": "Power BI Reports",
+   "description": "Build Power BI models and reports that business users trust.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/powerbi-reports.md"
+  },
+  {
+   "id": "tableau-dashboards",
+   "title": "Tableau Dashboards",
+   "description": "Design Tableau dashboards that guide decisions.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/tableau-dashboards.md"
+  },
+  {
+   "id": "data-storytelling",
+   "title": "Data Storytelling",
+   "description": "Turn analysis into narratives executives act on.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/data-storytelling.md"
+  },
+  {
+   "id": "geospatial-analysis",
+   "title": "Geospatial Analysis",
+   "description": "Analyze location data with maps, geocoding, and spatial joins.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/geospatial-analysis.md"
+  },
+  {
+   "id": "network-analysis",
+   "title": "Network Analysis",
+   "description": "Analyze graphs: centrality, communities, and flows.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/network-analysis.md"
+  },
+  {
+   "id": "customer-analytics",
+   "title": "Customer Analytics",
+   "description": "Understand customers through RFM, segments, and lifetime value.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/customer-analytics.md"
+  },
+  {
+   "id": "cohort-retention",
+   "title": "Cohort and Retention Analysis",
+   "description": "Measure retention with cohorts, curves, and resurrection.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/cohort-retention.md"
+  },
+  {
+   "id": "business-forecasting",
+   "title": "Business Forecasting",
+   "description": "Forecast revenue, demand, and capacity with error tracking.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/business-forecasting.md"
+  },
+  {
+   "id": "etl-pipelines",
+   "title": "ETL Pipelines",
+   "description": "Build reliable extract-transform-load pipelines with tests.",
+   "category": "data-science",
+   "categoryLabel": "Data Science",
+   "file": "skills/data-science/etl-pipelines.md"
+  },
+  {
+   "id": "python-fundamentals",
+   "title": "Python Fundamentals",
+   "description": "Write clear Python: types, comprehensions, and idiomatic stdlib use.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/python-fundamentals.md"
+  },
+  {
+   "id": "python-advanced",
+   "title": "Advanced Python",
+   "description": "Use decorators, async, and typing that keep large codebases sane.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/python-advanced.md"
+  },
+  {
+   "id": "javascript-fundamentals",
+   "title": "JavaScript Fundamentals",
+   "description": "Reason about JS: types, closures, prototypes, and the event loop.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/javascript-fundamentals.md"
+  },
+  {
+   "id": "typescript-fundamentals",
+   "title": "TypeScript Fundamentals",
+   "description": "Type code precisely: unions, narrowing, and strictness.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/typescript-fundamentals.md"
+  },
+  {
+   "id": "typescript-advanced",
+   "title": "Advanced TypeScript",
+   "description": "Wield generics, conditional types, and inference like a library author.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/typescript-advanced.md"
+  },
+  {
+   "id": "rust-fundamentals",
+   "title": "Rust Fundamentals",
+   "description": "Write safe Rust with ownership, borrowing, and lifetimes.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/rust-fundamentals.md"
+  },
+  {
+   "id": "rust-advanced",
+   "title": "Advanced Rust",
+   "description": "Use traits, generics, and async Rust for systems work.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/rust-advanced.md"
+  },
+  {
+   "id": "go-fundamentals",
+   "title": "Go Fundamentals",
+   "description": "Write simple, direct Go with interfaces and composition.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/go-fundamentals.md"
+  },
+  {
+   "id": "java-fundamentals",
+   "title": "Java Fundamentals",
+   "description": "Write modern Java: records, streams, and Optional honesty.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/java-fundamentals.md"
+  },
+  {
+   "id": "csharp-fundamentals",
+   "title": "C# Fundamentals",
+   "description": "Write modern C# with LINQ, async, and nullable awareness.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/csharp-fundamentals.md"
+  },
+  {
+   "id": "cpp-fundamentals",
+   "title": "C++ Fundamentals",
+   "description": "Write safe modern C++: RAII, smart pointers, and STL.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/cpp-fundamentals.md"
+  },
+  {
+   "id": "php-fundamentals",
+   "title": "PHP Fundamentals",
+   "description": "Write modern PHP 8 with types, enums, and composer discipline.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/php-fundamentals.md"
+  },
+  {
+   "id": "ruby-fundamentals",
+   "title": "Ruby Fundamentals",
+   "description": "Write expressive Ruby with blocks, modules, and clear OO.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/ruby-fundamentals.md"
+  },
+  {
+   "id": "swift-language",
+   "title": "Swift Language Craft",
+   "description": "Write safe, expressive Swift with value types and concurrency.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/swift-language.md"
+  },
+  {
+   "id": "kotlin-language",
+   "title": "Kotlin Language Craft",
+   "description": "Write concise Kotlin with null safety, coroutines, and DSLs.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/kotlin-language.md"
+  },
+  {
+   "id": "dart-language",
+   "title": "Dart Language Craft",
+   "description": "Write Dart for Flutter with sound null safety and async patterns.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/dart-language.md"
+  },
+  {
+   "id": "functional-programming",
+   "title": "Functional Programming",
+   "description": "Apply pure functions, immutability, and composition pragmatically.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/functional-programming.md"
+  },
+  {
+   "id": "oop-design",
+   "title": "Object-Oriented Design",
+   "description": "Design objects that model the domain without ceremony.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/oop-design.md"
+  },
+  {
+   "id": "algorithms-fundamentals",
+   "title": "Algorithms Fundamentals",
+   "description": "Know the core algorithms and when they actually matter.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/algorithms-fundamentals.md"
+  },
+  {
+   "id": "data-structures",
+   "title": "Data Structures",
+   "description": "Pick data structures by access pattern, not by fashion.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/data-structures.md"
+  },
+  {
+   "id": "dynamic-programming",
+   "title": "Dynamic Programming",
+   "description": "Break hard problems into overlapping subproblems with memo and tables.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/dynamic-programming.md"
+  },
+  {
+   "id": "graph-algorithms",
+   "title": "Graph Algorithms",
+   "description": "Traverse and analyze graphs: BFS, DFS, shortest paths, MSTs.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/graph-algorithms.md"
+  },
+  {
+   "id": "concurrency-patterns",
+   "title": "Concurrency Patterns",
+   "description": "Coordinate concurrent work safely across languages.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/concurrency-patterns.md"
+  },
+  {
+   "id": "async-programming",
+   "title": "Asynchronous Programming",
+   "description": "Master async models: promises, fibers, and event loops.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/async-programming.md"
+  },
+  {
+   "id": "regex-mastery",
+   "title": "Regular Expressions",
+   "description": "Write regexes that are precise, readable, and safe.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/regex-mastery.md"
+  },
+  {
+   "id": "clean-code",
+   "title": "Clean Code Practices",
+   "description": "Write code others can read and change with confidence.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/clean-code.md"
+  },
+  {
+   "id": "debugging-techniques",
+   "title": "Systematic Debugging",
+   "description": "Debug methodically: reproduce, isolate, hypothesize, verify.",
+   "category": "programming-languages",
+   "categoryLabel": "Programming Languages",
+   "file": "skills/programming-languages/debugging-techniques.md"
+  },
+  {
+   "id": "system-design-fundamentals",
+   "title": "System Design Fundamentals",
+   "description": "Design systems with clear boxes, contracts, and failure thinking.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/system-design-fundamentals.md"
+  },
+  {
+   "id": "microservices-architecture",
+   "title": "Microservices Architecture",
+   "description": "Split systems only where independence pays, with real boundaries.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/microservices-architecture.md"
+  },
+  {
+   "id": "modular-monolith",
+   "title": "Modular Monolith",
+   "description": "Structure big single-deploy apps with enforced module boundaries.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/modular-monolith.md"
+  },
+  {
+   "id": "event-driven-architecture",
+   "title": "Event-Driven Architecture",
+   "description": "Design with events, schemas, and replay in mind.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/event-driven-architecture.md"
+  },
+  {
+   "id": "api-gateway-patterns",
+   "title": "API Gateway Patterns",
+   "description": "Front distributed systems with auth, routing, and rate policies.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/api-gateway-patterns.md"
+  },
+  {
+   "id": "domain-driven-design",
+   "title": "Domain-Driven Design",
+   "description": "Model software around the business domain with a shared language.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/domain-driven-design.md"
+  },
+  {
+   "id": "hexagonal-architecture",
+   "title": "Hexagonal Architecture",
+   "description": "Isolate business logic from frameworks and I/O with ports and adapters.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/hexagonal-architecture.md"
+  },
+  {
+   "id": "cqrs-event-sourcing",
+   "title": "CQRS and Event Sourcing",
+   "description": "Separate reads from writes and store facts as events where justified.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/cqrs-event-sourcing.md"
+  },
+  {
+   "id": "design-patterns",
+   "title": "Design Patterns in Practice",
+   "description": "Apply classic patterns where they simplify, not decorate.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/design-patterns.md"
+  },
+  {
+   "id": "dependency-injection",
+   "title": "Dependency Injection",
+   "description": "Wire dependencies explicitly for testability and clarity.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/dependency-injection.md"
+  },
+  {
+   "id": "testing-pyramid",
+   "title": "Testing Strategy",
+   "description": "Build balanced test suites: fast units, honest integrations, few e2es.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/testing-pyramid.md"
+  },
+  {
+   "id": "unit-testing-craft",
+   "title": "Unit Testing Craft",
+   "description": "Write unit tests that document behavior and survive refactors.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/unit-testing-craft.md"
+  },
+  {
+   "id": "integration-testing",
+   "title": "Integration Testing",
+   "description": "Test modules against real boundaries: DB, queues, HTTP.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/integration-testing.md"
+  },
+  {
+   "id": "e2e-testing-playwright",
+   "title": "End-to-End Testing",
+   "description": "Automate user journeys with Playwright that stay green.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/e2e-testing-playwright.md"
+  },
+  {
+   "id": "code-review",
+   "title": "Code Review Excellence",
+   "description": "Review code for correctness, security, and the next reader.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/code-review.md"
+  },
+  {
+   "id": "refactoring-legacy",
+   "title": "Refactoring Legacy Code",
+   "description": "Improve old code safely with seams, tests, and small wins.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/refactoring-legacy.md"
+  },
+  {
+   "id": "documentation-adr",
+   "title": "Architecture Documentation",
+   "description": "Document decisions, maps, and runbooks people actually read.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/documentation-adr.md"
+  },
+  {
+   "id": "monorepo-management",
+   "title": "Monorepo Management",
+   "description": "Run monorepos with task graphs, caching, and ownership.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/monorepo-management.md"
+  },
+  {
+   "id": "feature-flags",
+   "title": "Feature Flags and Trunk Delivery",
+   "description": "Decouple deploy from release with flags that retire.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/feature-flags.md"
+  },
+  {
+   "id": "technical-debt",
+   "title": "Technical Debt Management",
+   "description": "Track and pay debt deliberately instead of drowning in it.",
+   "category": "software-architecture",
+   "categoryLabel": "Software Architecture",
+   "file": "skills/software-architecture/technical-debt.md"
+  },
+  {
+   "id": "owasp-top10",
+   "title": "OWASP Top 10 Defense",
+   "description": "Defend against the top web vulnerabilities systematically.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/owasp-top10.md"
+  },
+  {
+   "id": "input-validation",
+   "title": "Input Validation Hardening",
+   "description": "Validate every input at every trust boundary without exception.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/input-validation.md"
+  },
+  {
+   "id": "access-control",
+   "title": "Authorization Design",
+   "description": "Enforce permissions centrally, deny by default, test the matrix.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/access-control.md"
+  },
+  {
+   "id": "secrets-management",
+   "title": "Secrets Management",
+   "description": "Never ship secrets in code: vaults, rotation, and scanning.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/secrets-management.md"
+  },
+  {
+   "id": "applied-cryptography",
+   "title": "Applied Cryptography",
+   "description": "Use crypto primitives correctly: hashing, AEAD, and key handling.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/applied-cryptography.md"
+  },
+  {
+   "id": "security-headers",
+   "title": "HTTP Security Headers",
+   "description": "Deploy CSP, HSTS, and friends with a measurable policy.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/security-headers.md"
+  },
+  {
+   "id": "sql-injection-defense",
+   "title": "SQL Injection Defense",
+   "description": "Prevent injection with parameterization everywhere, plus defense in depth.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/sql-injection-defense.md"
+  },
+  {
+   "id": "xss-csrf-defense",
+   "title": "XSS and CSRF Defense",
+   "description": "Stop cross-site scripting and request forgery at the framework level.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/xss-csrf-defense.md"
+  },
+  {
+   "id": "api-security-testing",
+   "title": "API Security Testing",
+   "description": "Test APIs like an attacker: auth, mass assignment, and rate abuse.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/api-security-testing.md"
+  },
+  {
+   "id": "pentesting-basics",
+   "title": "Penetration Testing Basics",
+   "description": "Ethically probe systems with recon, exploitation, and clean reporting.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/pentesting-basics.md"
+  },
+  {
+   "id": "vulnerability-management",
+   "title": "Vulnerability Management",
+   "description": "Triage CVEs and findings with real risk ranking.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/vulnerability-management.md"
+  },
+  {
+   "id": "secure-code-review",
+   "title": "Secure Code Review",
+   "description": "Audit code changes for auth, data, and injection risks.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/secure-code-review.md"
+  },
+  {
+   "id": "supply-chain-security",
+   "title": "Dependency and Supply Chain Security",
+   "description": "Control third-party code and build integrity.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/supply-chain-security.md"
+  },
+  {
+   "id": "cloud-security",
+   "title": "Cloud Security Basics",
+   "description": "Lock down cloud accounts: identity, network, and audit trails.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/cloud-security.md"
+  },
+  {
+   "id": "privacy-compliance",
+   "title": "Privacy and GDPR Compliance",
+   "description": "Handle personal data lawfully: minimization, consent, and rights.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/privacy-compliance.md"
+  },
+  {
+   "id": "security-monitoring",
+   "title": "Security Monitoring",
+   "description": "Detect intrusions with logs, alerts, and anomaly baselines.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/security-monitoring.md"
+  },
+  {
+   "id": "malware-analysis",
+   "title": "Malware Analysis Basics",
+   "description": "Analyze suspicious files safely in isolated labs.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/malware-analysis.md"
+  },
+  {
+   "id": "network-security",
+   "title": "Network Security Fundamentals",
+   "description": "Segment, filter, and encrypt networks with intent.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/network-security.md"
+  },
+  {
+   "id": "digital-forensics",
+   "title": "Incident Forensics",
+   "description": "Investigate breaches with timeline, artifacts, and chain of custody.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/digital-forensics.md"
+  },
+  {
+   "id": "social-engineering",
+   "title": "Social Engineering Defense",
+   "description": "Recognize and defend against phishing, pretexting, and baiting.",
+   "category": "security",
+   "categoryLabel": "Security",
+   "file": "skills/security/social-engineering.md"
+  },
+  {
+   "id": "figma-fundamentals",
+   "title": "Figma Fundamentals",
+   "description": "Design in Figma with auto-layout, components, and variants that scale.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/figma-fundamentals.md"
+  },
+  {
+   "id": "design-systems",
+   "title": "Design Systems",
+   "description": "Build token-driven systems that ship consistent UI at speed.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/design-systems.md"
+  },
+  {
+   "id": "typography",
+   "title": "Typography Craft",
+   "description": "Choose and set type that carries hierarchy and tone.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/typography.md"
+  },
+  {
+   "id": "color-theory",
+   "title": "Color in UI",
+   "description": "Build palettes with meaning, contrast, and accessibility built in.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/color-theory.md"
+  },
+  {
+   "id": "layout-composition",
+   "title": "Layout and Composition",
+   "description": "Compose screens with grid, alignment, and visual weight intent.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/layout-composition.md"
+  },
+  {
+   "id": "wireframing",
+   "title": "Wireframing",
+   "description": "Sketch structure and flow before pixels steal the show.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/wireframing.md"
+  },
+  {
+   "id": "prototyping",
+   "title": "Interactive Prototyping",
+   "description": "Prototype flows that answer questions with the least effort.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/prototyping.md"
+  },
+  {
+   "id": "user-research",
+   "title": "User Research Interviews",
+   "description": "Run interviews that surface truth, not compliments.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/user-research.md"
+  },
+  {
+   "id": "usability-testing",
+   "title": "Usability Testing",
+   "description": "Watch real users and turn observations into fixes.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/usability-testing.md"
+  },
+  {
+   "id": "personas-journeys",
+   "title": "Personas and Journey Maps",
+   "description": "Model users and their end-to-end journeys with evidence.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/personas-journeys.md"
+  },
+  {
+   "id": "accessible-design",
+   "title": "Accessible Design",
+   "description": "Design for everyone: contrast, focus, and inclusive patterns.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/accessible-design.md"
+  },
+  {
+   "id": "mobile-ux-patterns",
+   "title": "Mobile UX Patterns",
+   "description": "Apply native-feeling mobile patterns users already know.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/mobile-ux-patterns.md"
+  },
+  {
+   "id": "landing-page-design",
+   "title": "Landing Page Design",
+   "description": "Design landing pages that communicate value in seconds.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/landing-page-design.md"
+  },
+  {
+   "id": "dashboard-design",
+   "title": "Dashboard and Data UX",
+   "description": "Design dashboards that answer the question in one glance.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/dashboard-design.md"
+  },
+  {
+   "id": "icon-design",
+   "title": "Icon Design",
+   "description": "Draw consistent, legible icons on a shared grid.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/icon-design.md"
+  },
+  {
+   "id": "logo-design",
+   "title": "Logo Design",
+   "description": "Design marks that are simple, ownable, and scalable.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/logo-design.md"
+  },
+  {
+   "id": "brand-identity",
+   "title": "Brand Identity Systems",
+   "description": "Build identities: voice, color, type, and usage rules.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/brand-identity.md"
+  },
+  {
+   "id": "ui-illustration",
+   "title": "UI Illustration",
+   "description": "Create illustrations that explain and delight inside products.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/ui-illustration.md"
+  },
+  {
+   "id": "dark-mode-design",
+   "title": "Dark Mode Design",
+   "description": "Design dark themes that stay readable and true to brand.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/dark-mode-design.md"
+  },
+  {
+   "id": "motion-design-ui",
+   "title": "Motion Design in UI",
+   "description": "Choreograph interface motion that guides, not distracts.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/motion-design-ui.md"
+  },
+  {
+   "id": "design-handoff",
+   "title": "Design-Dev Handoff",
+   "description": "Hand off designs engineers can build without guessing.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/design-handoff.md"
+  },
+  {
+   "id": "emotion-design",
+   "title": "Emotional Design",
+   "description": "Design moments of delight that build attachment.",
+   "category": "design-ux",
+   "categoryLabel": "Design and UX",
+   "file": "skills/design-ux/emotion-design.md"
+  },
+  {
+   "id": "copywriting-fundamentals",
+   "title": "Copywriting Fundamentals",
+   "description": "Write copy that earns attention and moves readers to act.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/copywriting-fundamentals.md"
+  },
+  {
+   "id": "landing-page-copy",
+   "title": "Landing Page Copy",
+   "description": "Write landing pages that convert: value, proof, and one CTA.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/landing-page-copy.md"
+  },
+  {
+   "id": "blog-writing",
+   "title": "Blog Post Writing",
+   "description": "Write posts that rank, get read, and get shared.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/blog-writing.md"
+  },
+  {
+   "id": "technical-writing",
+   "title": "Technical Writing",
+   "description": "Explain complex things simply without dumbing them down.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/technical-writing.md"
+  },
+  {
+   "id": "documentation-writing",
+   "title": "Product Documentation",
+   "description": "Write docs users can follow at 2am without support tickets.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/documentation-writing.md"
+  },
+  {
+   "id": "api-docs-writing",
+   "title": "API Documentation",
+   "description": "Document APIs with copy-paste examples and honest errors.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/api-docs-writing.md"
+  },
+  {
+   "id": "readme-writing",
+   "title": "README Writing",
+   "description": "Write READMEs that answer install, use, and contribute fast.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/readme-writing.md"
+  },
+  {
+   "id": "email-writing",
+   "title": "Email Writing",
+   "description": "Write emails people open, read, and answer.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/email-writing.md"
+  },
+  {
+   "id": "storytelling",
+   "title": "Narrative Storytelling",
+   "description": "Tell stories with structure, tension, and payoff.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/storytelling.md"
+  },
+  {
+   "id": "fiction-writing",
+   "title": "Fiction Writing Craft",
+   "description": "Write fiction with characters, voice, and scenes that breathe.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/fiction-writing.md"
+  },
+  {
+   "id": "screenwriting",
+   "title": "Screenwriting Basics",
+   "description": "Write scripts in industry format with visual storytelling.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/screenwriting.md"
+  },
+  {
+   "id": "poetry-writing",
+   "title": "Poetry Craft",
+   "description": "Write poems with imagery, rhythm, and intention.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/poetry-writing.md"
+  },
+  {
+   "id": "songwriting",
+   "title": "Songwriting Craft",
+   "description": "Write songs with hooks, verses, and emotional builds.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/songwriting.md"
+  },
+  {
+   "id": "video-script-writing",
+   "title": "Video Script Writing",
+   "description": "Write scripts for videos that hold attention to the end.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/video-script-writing.md"
+  },
+  {
+   "id": "podcast-scripting",
+   "title": "Podcast Scripting",
+   "description": "Plan shows that sound unscripted but land structured.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/podcast-scripting.md"
+  },
+  {
+   "id": "speech-writing",
+   "title": "Speech Writing",
+   "description": "Write speeches people remember and quote.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/speech-writing.md"
+  },
+  {
+   "id": "press-releases",
+   "title": "Press Release Writing",
+   "description": "Announce news in journalist-friendly format.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/press-releases.md"
+  },
+  {
+   "id": "case-studies",
+   "title": "Case Study Writing",
+   "description": "Turn customer wins into stories that sell.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/case-studies.md"
+  },
+  {
+   "id": "white-papers",
+   "title": "White Paper Writing",
+   "description": "Write authoritative deep-dives that build trust and pipeline.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/white-papers.md"
+  },
+  {
+   "id": "social-media-copy",
+   "title": "Social Media Copywriting",
+   "description": "Write platform-native copy that stops the scroll.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/social-media-copy.md"
+  },
+  {
+   "id": "ux-microcopy",
+   "title": "UX Microcopy",
+   "description": "Write interface text that guides, reassures, and humanizes.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/ux-microcopy.md"
+  },
+  {
+   "id": "editing-proofreading",
+   "title": "Editing and Proofreading",
+   "description": "Edit drafts ruthlessly: structure, clarity, then polish.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/editing-proofreading.md"
+  },
+  {
+   "id": "translation-craft",
+   "title": "Translation Quality",
+   "description": "Translate meaning, not words: localization done right.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/translation-craft.md"
+  },
+  {
+   "id": "style-guides",
+   "title": "Style and Grammar Guides",
+   "description": "Apply AP/Chicago rules with a house style overlay.",
+   "category": "writing-content",
+   "categoryLabel": "Writing and Content",
+   "file": "skills/writing-content/style-guides.md"
+  },
+  {
+   "id": "seo-on-page",
+   "title": "On-Page SEO Execution",
+   "description": "Optimize pages to rank: intent, content, and internal links.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/seo-on-page.md"
+  },
+  {
+   "id": "seo-technical",
+   "title": "Technical SEO Audits",
+   "description": "Fix crawlability, indexing, and site health issues.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/seo-technical.md"
+  },
+  {
+   "id": "keyword-research",
+   "title": "Keyword Research",
+   "description": "Find keywords with real volume you can actually win.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/keyword-research.md"
+  },
+  {
+   "id": "content-marketing",
+   "title": "Content Marketing Strategy",
+   "description": "Plan content that compounds traffic and trust.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/content-marketing.md"
+  },
+  {
+   "id": "content-calendar",
+   "title": "Content Calendar Management",
+   "description": "Run a realistic content calendar that ships.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/content-calendar.md"
+  },
+  {
+   "id": "social-media-strategy",
+   "title": "Social Media Strategy",
+   "description": "Build a presence with pillars, cadence, and measurement.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/social-media-strategy.md"
+  },
+  {
+   "id": "instagram-marketing",
+   "title": "Instagram Marketing",
+   "description": "Grow on Instagram: reels, stories, and community.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/instagram-marketing.md"
+  },
+  {
+   "id": "tiktok-marketing",
+   "title": "TikTok Marketing",
+   "description": "Create native TikTok content that earns watches, not ads.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/tiktok-marketing.md"
+  },
+  {
+   "id": "youtube-marketing",
+   "title": "YouTube Channel Growth",
+   "description": "Grow a channel with packaging and retention strategy.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/youtube-marketing.md"
+  },
+  {
+   "id": "linkedin-b2b",
+   "title": "LinkedIn B2B Marketing",
+   "description": "Build B2B pipeline with founder-led content.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/linkedin-b2b.md"
+  },
+  {
+   "id": "twitter-x-marketing",
+   "title": "X (Twitter) Marketing",
+   "description": "Grow on X with threads, replies, and build-in-public.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/twitter-x-marketing.md"
+  },
+  {
+   "id": "email-marketing",
+   "title": "Email Marketing Campaigns",
+   "description": "Run email programs people open and click.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/email-marketing.md"
+  },
+  {
+   "id": "newsletter-growth",
+   "title": "Newsletter Growth",
+   "description": "Grow a newsletter subscribers actually read.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/newsletter-growth.md"
+  },
+  {
+   "id": "marketing-automation",
+   "title": "Marketing Automation",
+   "description": "Automate journeys without losing the human touch.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/marketing-automation.md"
+  },
+  {
+   "id": "meta-ads",
+   "title": "Meta Ads (Facebook/Instagram)",
+   "description": "Run profitable Meta ads: creative, audiences, and testing.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/meta-ads.md"
+  },
+  {
+   "id": "google-ads",
+   "title": "Google Ads Search",
+   "description": "Run search campaigns that capture existing demand.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/google-ads.md"
+  },
+  {
+   "id": "growth-experiments",
+   "title": "Growth Experimentation",
+   "description": "Run a growth loop of hypotheses, tests, and learnings.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/growth-experiments.md"
+  },
+  {
+   "id": "funnel-optimization",
+   "title": "Funnel Optimization",
+   "description": "Map and optimize the funnel stage by stage.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/funnel-optimization.md"
+  },
+  {
+   "id": "conversion-optimization",
+   "title": "Conversion Rate Optimization",
+   "description": "Lift conversion with research, not random A/B tests.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/conversion-optimization.md"
+  },
+  {
+   "id": "influencer-outreach",
+   "title": "Influencer Outreach",
+   "description": "Partner with creators without wasting budget.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/influencer-outreach.md"
+  },
+  {
+   "id": "affiliate-marketing",
+   "title": "Affiliate Program Marketing",
+   "description": "Build affiliate channels that scale with partners.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/affiliate-marketing.md"
+  },
+  {
+   "id": "app-store-optimization",
+   "title": "App Store Optimization",
+   "description": "Improve app store visibility and conversion.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/app-store-optimization.md"
+  },
+  {
+   "id": "brand-voice",
+   "title": "Brand Voice Development",
+   "description": "Define a voice that is recognizable and repeatable.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/brand-voice.md"
+  },
+  {
+   "id": "marketing-attribution",
+   "title": "Marketing Analytics and Attribution",
+   "description": "Measure what drives revenue, not just clicks.",
+   "category": "marketing-growth",
+   "categoryLabel": "Marketing and Growth",
+   "file": "skills/marketing-growth/marketing-attribution.md"
+  },
+  {
+   "id": "business-plan",
+   "title": "Business Plan Writing",
+   "description": "Write plans that clarify strategy and convince investors.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/business-plan.md"
+  },
+  {
+   "id": "pitch-decks",
+   "title": "Pitch Deck Craft",
+   "description": "Build decks that tell a story in 12-15 slides.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/pitch-decks.md"
+  },
+  {
+   "id": "market-research",
+   "title": "Market Research",
+   "description": "Research markets with primary and secondary sources.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/market-research.md"
+  },
+  {
+   "id": "competitor-analysis",
+   "title": "Competitive Analysis",
+   "description": "Analyze competitors to find your real edge.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/competitor-analysis.md"
+  },
+  {
+   "id": "swot-analysis",
+   "title": "SWOT and Strategy Synthesis",
+   "description": "Turn SWOT into strategy, not wall art.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/swot-analysis.md"
+  },
+  {
+   "id": "pricing-strategy",
+   "title": "Pricing Strategy",
+   "description": "Price on value with packaging that expands accounts.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/pricing-strategy.md"
+  },
+  {
+   "id": "business-model-canvas",
+   "title": "Business Model Canvas",
+   "description": "Map a business on one canvas with honest hypotheses.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/business-model-canvas.md"
+  },
+  {
+   "id": "unit-economics",
+   "title": "Unit Economics",
+   "description": "Know what a customer is worth and costs.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/unit-economics.md"
+  },
+  {
+   "id": "okr-setting",
+   "title": "OKR Goal Setting",
+   "description": "Set objectives and key results that focus teams.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/okr-setting.md"
+  },
+  {
+   "id": "kpi-dashboards",
+   "title": "Business KPI Design",
+   "description": "Pick and track the metrics that matter.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/kpi-dashboards.md"
+  },
+  {
+   "id": "stakeholder-management",
+   "title": "Stakeholder Management",
+   "description": "Map stakeholders and keep them aligned.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/stakeholder-management.md"
+  },
+  {
+   "id": "negotiation-fundamentals",
+   "title": "Negotiation Fundamentals",
+   "description": "Negotiate with preparation, anchors, and BATNA clarity.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/negotiation-fundamentals.md"
+  },
+  {
+   "id": "project-management",
+   "title": "Project Management Basics",
+   "description": "Plan, track, and land projects without chaos.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/project-management.md"
+  },
+  {
+   "id": "agile-scrum",
+   "title": "Agile and Scrum Practice",
+   "description": "Run sprints that deliver value predictably.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/agile-scrum.md"
+  },
+  {
+   "id": "lean-validation",
+   "title": "Lean Startup Validation",
+   "description": "Test ideas cheaply before building them.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/lean-validation.md"
+  },
+  {
+   "id": "customer-interviews",
+   "title": "Customer Development Interviews",
+   "description": "Interview customers to validate real problems.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/customer-interviews.md"
+  },
+  {
+   "id": "prd-writing",
+   "title": "Product Requirements Docs",
+   "description": "Write PRDs that align teams and cut ambiguity.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/prd-writing.md"
+  },
+  {
+   "id": "roadmapping",
+   "title": "Product Roadmapping",
+   "description": "Build roadmaps that communicate strategy, not dates.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/roadmapping.md"
+  },
+  {
+   "id": "go-to-market",
+   "title": "Go-To-Market Strategy",
+   "description": "Launch products with positioning and channel plans.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/go-to-market.md"
+  },
+  {
+   "id": "partnerships",
+   "title": "Partnership Development",
+   "description": "Build partnerships that move both businesses.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/partnerships.md"
+  },
+  {
+   "id": "risk-management",
+   "title": "Business Risk Management",
+   "description": "Identify and mitigate risks before they bite.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/risk-management.md"
+  },
+  {
+   "id": "hiring-people",
+   "title": "Hiring and Team Building",
+   "description": "Hire well with structured processes.",
+   "category": "business-strategy",
+   "categoryLabel": "Business and Strategy",
+   "file": "skills/business-strategy/hiring-people.md"
+  },
+  {
+   "id": "time-management",
+   "title": "Time Management",
+   "description": "Design days around priorities instead of inbox fires.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/time-management.md"
+  },
+  {
+   "id": "deep-work",
+   "title": "Deep Work Practice",
+   "description": "Cultivate focus sessions that produce your best work.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/deep-work.md"
+  },
+  {
+   "id": "task-prioritization",
+   "title": "Task Prioritization",
+   "description": "Prioritize with Eisenhower and effort-impact honesty.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/task-prioritization.md"
+  },
+  {
+   "id": "notion-workspaces",
+   "title": "Notion Workspace Design",
+   "description": "Build Notion workspaces that stay organized.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/notion-workspaces.md"
+  },
+  {
+   "id": "obsidian-notes",
+   "title": "Obsidian Knowledge Base",
+   "description": "Build a linked notes vault that compounds.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/obsidian-notes.md"
+  },
+  {
+   "id": "zettelkasten",
+   "title": "Zettelkasten Method",
+   "description": "Practice the slip-box method for durable thinking.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/zettelkasten.md"
+  },
+  {
+   "id": "meeting-efficiency",
+   "title": "Meeting Efficiency",
+   "description": "Run meetings that are short and actually decide.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/meeting-efficiency.md"
+  },
+  {
+   "id": "email-inbox",
+   "title": "Inbox Zero Practice",
+   "description": "Process email to zero with decisive triage.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/email-inbox.md"
+  },
+  {
+   "id": "habit-building",
+   "title": "Habit Building",
+   "description": "Build habits that stick with cues and streaks.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/habit-building.md"
+  },
+  {
+   "id": "goal-setting",
+   "title": "Goal Setting (SMART)",
+   "description": "Set goals that survive contact with reality.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/goal-setting.md"
+  },
+  {
+   "id": "weekly-review",
+   "title": "Weekly Review Systems",
+   "description": "Run weekly reviews that reset and steer the week.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/weekly-review.md"
+  },
+  {
+   "id": "decision-frameworks",
+   "title": "Decision Making Frameworks",
+   "description": "Decide well: framing, options, and reversibility.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/decision-frameworks.md"
+  },
+  {
+   "id": "focus-environment",
+   "title": "Focus Environment Design",
+   "description": "Engineer your physical and digital environment for focus.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/focus-environment.md"
+  },
+  {
+   "id": "delegation",
+   "title": "Delegation Craft",
+   "description": "Delegate outcomes, not tasks, with clear briefs.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/delegation.md"
+  },
+  {
+   "id": "workflow-automation",
+   "title": "Personal Workflow Automation",
+   "description": "Automate your repetitive personal workloads.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/workflow-automation.md"
+  },
+  {
+   "id": "file-organization",
+   "title": "Digital File Organization",
+   "description": "Organize files so anyone can find anything.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/file-organization.md"
+  },
+  {
+   "id": "calendar-management",
+   "title": "Calendar Management",
+   "description": "Own your calendar instead of letting it own you.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/calendar-management.md"
+  },
+  {
+   "id": "burnout-prevention",
+   "title": "Sustainable Pace and Burnout Prevention",
+   "description": "Work sustainably and spot burnout early.",
+   "category": "productivity",
+   "categoryLabel": "Productivity",
+   "file": "skills/productivity/burnout-prevention.md"
+  },
+  {
+   "id": "math-fundamentals",
+   "title": "Math Fundamentals Tutoring",
+   "description": "Teach arithmetic through pre-algebra with number sense first.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/math-fundamentals.md"
+  },
+  {
+   "id": "algebra-tutor",
+   "title": "Algebra Tutoring",
+   "description": "Teach algebra with structure, balance, and translation skills.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/algebra-tutor.md"
+  },
+  {
+   "id": "geometry-tutor",
+   "title": "Geometry Tutoring",
+   "description": "Teach geometry: proof logic, visual intuition, and formulas.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/geometry-tutor.md"
+  },
+  {
+   "id": "calculus-tutor",
+   "title": "Calculus Tutoring",
+   "description": "Teach limits, derivatives, and integrals with intuition and rigor.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/calculus-tutor.md"
+  },
+  {
+   "id": "statistics-tutor",
+   "title": "Statistics Tutoring",
+   "description": "Teach statistics with data, intuition, and skepticism.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/statistics-tutor.md"
+  },
+  {
+   "id": "physics-tutor",
+   "title": "Physics Tutoring",
+   "description": "Teach physics from concepts to structured problem solving.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/physics-tutor.md"
+  },
+  {
+   "id": "chemistry-tutor",
+   "title": "Chemistry Tutoring",
+   "description": "Teach chemistry: particles, reactions, and calculation patterns.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/chemistry-tutor.md"
+  },
+  {
+   "id": "biology-tutor",
+   "title": "Biology Tutoring",
+   "description": "Teach biology with systems, processes, and connections.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/biology-tutor.md"
+  },
+  {
+   "id": "cs-teaching",
+   "title": "Computer Science Teaching",
+   "description": "Teach programming and CS concepts to beginners.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/cs-teaching.md"
+  },
+  {
+   "id": "english-grammar",
+   "title": "English Grammar Tutoring",
+   "description": "Teach English grammar with patterns and immediate practice.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/english-grammar.md"
+  },
+  {
+   "id": "english-conversation",
+   "title": "English Conversation Coaching",
+   "description": "Build spoken fluency with structured practice.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/english-conversation.md"
+  },
+  {
+   "id": "arabic-teaching",
+   "title": "Arabic Language Teaching",
+   "description": "Teach Arabic (MSA) with structure and dialect honesty.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/arabic-teaching.md"
+  },
+  {
+   "id": "french-learning",
+   "title": "French Learning Coach",
+   "description": "Guide French learning: pronunciation, verbs, and fluency drills.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/french-learning.md"
+  },
+  {
+   "id": "spanish-learning",
+   "title": "Spanish Learning Coach",
+   "description": "Guide Spanish learning from sounds to conversation.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/spanish-learning.md"
+  },
+  {
+   "id": "german-learning",
+   "title": "German Learning Coach",
+   "description": "Guide German learning: cases, order, and compounds.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/german-learning.md"
+  },
+  {
+   "id": "study-plans",
+   "title": "Study Plan Design",
+   "description": "Build personalized study plans that hold.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/study-plans.md"
+  },
+  {
+   "id": "exam-prep",
+   "title": "Exam Preparation Coaching",
+   "description": "Prepare for exams with active recall and exam craft.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/exam-prep.md"
+  },
+  {
+   "id": "spaced-repetition",
+   "title": "Spaced Repetition Systems",
+   "description": "Use Anki-style SRS for durable memory.",
+   "category": "education-tutoring",
+   "categoryLabel": "Education and Tutoring",
+   "file": "skills/education-tutoring/spaced-repetition.md"
+  },
+  {
+   "id": "video-editing",
+   "title": "Video Editing Fundamentals",
+   "description": "Edit videos with pace, continuity, and story logic.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/video-editing.md"
+  },
+  {
+   "id": "premiere-pro",
+   "title": "Premiere Pro Editing",
+   "description": "Edit professionally in Premiere with organization and speed.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/premiere-pro.md"
+  },
+  {
+   "id": "after-effects",
+   "title": "After Effects Motion",
+   "description": "Create motion graphics and VFX in After Effects.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/after-effects.md"
+  },
+  {
+   "id": "davinci-resolve",
+   "title": "DaVinci Resolve Editing",
+   "description": "Edit and color in Resolve with node-based control.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/davinci-resolve.md"
+  },
+  {
+   "id": "color-grading",
+   "title": "Color Grading Craft",
+   "description": "Grade footage: correction first, look second.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/color-grading.md"
+  },
+  {
+   "id": "sound-design",
+   "title": "Sound Design for Video",
+   "description": "Design audio beds that carry emotion and clarity.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/sound-design.md"
+  },
+  {
+   "id": "audacity-podcast",
+   "title": "Audacity and Podcast Editing",
+   "description": "Edit podcasts: cleanup, pacing, and consistent loudness.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/audacity-podcast.md"
+  },
+  {
+   "id": "music-production",
+   "title": "Music Production Basics",
+   "description": "Produce tracks from idea to release-ready mix.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/music-production.md"
+  },
+  {
+   "id": "ableton-live",
+   "title": "Ableton Live Production",
+   "description": "Produce in Ableton: session, arrangement, and racks.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/ableton-live.md"
+  },
+  {
+   "id": "fl-studio",
+   "title": "FL Studio Production",
+   "description": "Produce in FL Studio with piano roll mastery.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/fl-studio.md"
+  },
+  {
+   "id": "photography-composition",
+   "title": "Photography Composition",
+   "description": "Compose photographs that hold attention.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/photography-composition.md"
+  },
+  {
+   "id": "lightroom-editing",
+   "title": "Lightroom Photo Editing",
+   "description": "Develop photos with a repeatable, tasteful workflow.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/lightroom-editing.md"
+  },
+  {
+   "id": "photoshop-retouching",
+   "title": "Photoshop Retouching",
+   "description": "Retouch with layers, masks, and non-destructive care.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/photoshop-retouching.md"
+  },
+  {
+   "id": "digital-illustration",
+   "title": "Digital Illustration",
+   "description": "Illustrate digitally with brushes, layers, and confidence.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/digital-illustration.md"
+  },
+  {
+   "id": "digital-painting",
+   "title": "Digital Painting Craft",
+   "description": "Paint digitally with light, form, and edge control.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/digital-painting.md"
+  },
+  {
+   "id": "3d-rendering",
+   "title": "3D Rendering and Lighting",
+   "description": "Render 3D scenes with light, materials, and storytelling.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/3d-rendering.md"
+  },
+  {
+   "id": "motion-graphics",
+   "title": "Motion Graphics Design",
+   "description": "Design animated graphics: kinetic type and logo stings.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/motion-graphics.md"
+  },
+  {
+   "id": "youtube-production",
+   "title": "YouTube Video Production",
+   "description": "Produce YouTube videos end to end with retention in mind.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/youtube-production.md"
+  },
+  {
+   "id": "short-form-video",
+   "title": "Short-Form Video Production",
+   "description": "Produce vertical shorts that hold attention.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/short-form-video.md"
+  },
+  {
+   "id": "podcast-production",
+   "title": "Podcast Production",
+   "description": "Launch and run a podcast that grows.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/podcast-production.md"
+  },
+  {
+   "id": "obs-streaming",
+   "title": "OBS Streaming Setup",
+   "description": "Configure OBS for smooth streams and recordings.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/obs-streaming.md"
+  },
+  {
+   "id": "ai-art-prompting",
+   "title": "AI Image Generation",
+   "description": "Direct AI image tools to get the art you want.",
+   "category": "creative-media",
+   "categoryLabel": "Creative and Media",
+   "file": "skills/creative-media/ai-art-prompting.md"
+  },
+  {
+   "id": "word-documents",
+   "title": "Word Document Design",
+   "description": "Build Word documents that look intentional and print well.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/word-documents.md"
+  },
+  {
+   "id": "excel-formulas",
+   "title": "Excel Formulas",
+   "description": "Write Excel formulas that are correct and auditable.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/excel-formulas.md"
+  },
+  {
+   "id": "excel-pivot",
+   "title": "Excel Pivot Tables",
+   "description": "Summarize data with pivots, slicers, and refresh discipline.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/excel-pivot.md"
+  },
+  {
+   "id": "excel-dashboards",
+   "title": "Excel Dashboard Reports",
+   "description": "Assemble Excel dashboards that update themselves.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/excel-dashboards.md"
+  },
+  {
+   "id": "google-sheets",
+   "title": "Google Sheets Advanced",
+   "description": "Master Sheets: queries, arrays, and collaboration.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/google-sheets.md"
+  },
+  {
+   "id": "powerpoint-design",
+   "title": "PowerPoint Slide Design",
+   "description": "Design slides that support, not eclipse, the message.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/powerpoint-design.md"
+  },
+  {
+   "id": "google-slides",
+   "title": "Google Slides Mastery",
+   "description": "Build collaborative decks in Slides with master discipline.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/google-slides.md"
+  },
+  {
+   "id": "pdf-creation",
+   "title": "PDF Creation and Editing",
+   "description": "Produce and manipulate PDFs with the right tools.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/pdf-creation.md"
+  },
+  {
+   "id": "google-docs",
+   "title": "Google Docs Collaboration",
+   "description": "Run documents in Docs with structure and workflow.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/google-docs.md"
+  },
+  {
+   "id": "notion-databases",
+   "title": "Notion Databases and Docs",
+   "description": "Run Notion as docs + databases in one workspace.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/notion-databases.md"
+  },
+  {
+   "id": "airtable-bases",
+   "title": "Airtable Base Building",
+   "description": "Build Airtable bases that teams actually adopt.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/airtable-bases.md"
+  },
+  {
+   "id": "business-reports",
+   "title": "Business Report Writing",
+   "description": "Write reports executives read to the end.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/business-reports.md"
+  },
+  {
+   "id": "invoice-templates",
+   "title": "Invoicing and Quotes",
+   "description": "Create clean invoices and quotes that get paid.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/invoice-templates.md"
+  },
+  {
+   "id": "resume-writing",
+   "title": "Resume Writing",
+   "description": "Write resumes that pass ATS and impress humans.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/resume-writing.md"
+  },
+  {
+   "id": "cover-letters",
+   "title": "Cover Letter Writing",
+   "description": "Write cover letters that say why you, why them.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/cover-letters.md"
+  },
+  {
+   "id": "meeting-minutes",
+   "title": "Meeting Minutes Craft",
+   "description": "Capture minutes that drive action, not transcripts.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/meeting-minutes.md"
+  },
+  {
+   "id": "sop-writing",
+   "title": "SOP and Process Documentation",
+   "description": "Write standard operating procedures people follow.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/sop-writing.md"
+  },
+  {
+   "id": "formal-letters",
+   "title": "Formal Letter Writing",
+   "description": "Write formal letters and official correspondence correctly.",
+   "category": "office-documents",
+   "categoryLabel": "Office and Documents",
+   "file": "skills/office-documents/formal-letters.md"
+  },
+  {
+   "id": "business-email",
+   "title": "Business Email Communication",
+   "description": "Write business emails that get replies and respect time.",
+   "category": "communication",
+   "categoryLabel": "Communication",
+   "file": "skills/communication/business-email.md"
+  },
+  {
+   "id": "presenting",
+   "title": "Presentation Delivery",
+   "description": "Present with structure, presence, and audience connection.",
+   "category": "communication",
+   "categoryLabel": "Communication",
+   "file": "skills/communication/presenting.md"
+  },
+  {
+   "id": "public-speaking",
+   "title": "Public Speaking",
+   "description": "Speak to rooms of any size with confidence and craft.",
+   "category": "communication",
+   "categoryLabel": "Communication",
+   "file": "skills/communication/public-speaking.md"
+  },
+  {
+   "id": "active-listening",
+   "title": "Active Listening",
+   "description": "Listen to understand: reflect, clarify, and confirm.",
+   "category": "communication",
+   "categoryLabel": "Communication",
+   "file": "skills/communication/active-listening.md"
+  },
+  {
+   "id": "difficult-conversations",
+   "title": "Difficult Conversations",
+   "description": "Navigate hard talks with honesty and care.",
+   "category": "communication",
+   "categoryLabel": "Communication",
+   "file": "skills/communication/difficult-conversations.md"
+  },
+  {
+   "id": "cross-cultural",
+   "title": "Cross-Cultural Communication",
+   "description": "Communicate across cultures without friction.",
+   "category": "communication",
+   "categoryLabel": "Communication",
+   "file": "skills/communication/cross-cultural.md"
+  },
+  {
+   "id": "teamwork",
+   "title": "Team Collaboration",
+   "description": "Collaborate in ways that make teams better.",
+   "category": "communication",
+   "categoryLabel": "Communication",
+   "file": "skills/communication/teamwork.md"
+  },
+  {
+   "id": "written-clarity",
+   "title": "Written Clarity",
+   "description": "Write messages and docs that cannot be misread.",
+   "category": "communication",
+   "categoryLabel": "Communication",
+   "file": "skills/communication/written-clarity.md"
+  },
+  {
+   "id": "persuasion",
+   "title": "Ethical Persuasion",
+   "description": "Persuade with evidence, framing, and respect.",
+   "category": "communication",
+   "categoryLabel": "Communication",
+   "file": "skills/communication/persuasion.md"
+  },
+  {
+   "id": "business-storytelling",
+   "title": "Business Storytelling",
+   "description": "Use stories to make business points stick.",
+   "category": "communication",
+   "categoryLabel": "Communication",
+   "file": "skills/communication/business-storytelling.md"
+  },
+  {
+   "id": "negotiation-winwin",
+   "title": "Win-Win Negotiation",
+   "description": "Reach agreements that strengthen relationships.",
+   "category": "communication",
+   "categoryLabel": "Communication",
+   "file": "skills/communication/negotiation-winwin.md"
+  },
+  {
+   "id": "conflict-resolution",
+   "title": "Conflict Resolution",
+   "description": "Resolve team conflicts before they calcify.",
+   "category": "communication",
+   "categoryLabel": "Communication",
+   "file": "skills/communication/conflict-resolution.md"
+  },
+  {
+   "id": "giving-feedback",
+   "title": "Giving Feedback",
+   "description": "Deliver feedback that people can act on.",
+   "category": "communication",
+   "categoryLabel": "Communication",
+   "file": "skills/communication/giving-feedback.md"
+  },
+  {
+   "id": "meeting-facilitation",
+   "title": "Meeting Facilitation",
+   "description": "Facilitate meetings where every voice matters.",
+   "category": "communication",
+   "categoryLabel": "Communication",
+   "file": "skills/communication/meeting-facilitation.md"
+  },
+  {
+   "id": "support-communication",
+   "title": "Customer Support Communication",
+   "description": "Talk to customers so they feel heard and helped.",
+   "category": "communication",
+   "categoryLabel": "Communication",
+   "file": "skills/communication/support-communication.md"
+  },
+  {
+   "id": "arabic-english-translation",
+   "title": "Arabic-English Communication",
+   "description": "Bridge Arabic and English in professional settings.",
+   "category": "communication",
+   "categoryLabel": "Communication",
+   "file": "skills/communication/arabic-english-translation.md"
+  },
+  {
+   "id": "personal-budgeting",
+   "title": "Personal Budgeting",
+   "description": "Build budgets that survive real life.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/personal-budgeting.md"
+  },
+  {
+   "id": "saving-strategies",
+   "title": "Saving Systems",
+   "description": "Automate saving so willpower is not required.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/saving-strategies.md"
+  },
+  {
+   "id": "debt-payoff",
+   "title": "Debt Payoff Planning",
+   "description": "Attack debt with method: avalanche or snowball.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/debt-payoff.md"
+  },
+  {
+   "id": "investing-fundamentals",
+   "title": "Investing Fundamentals",
+   "description": "Invest for the long term with diversification and costs in mind.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/investing-fundamentals.md"
+  },
+  {
+   "id": "stock-analysis",
+   "title": "Stock Analysis Basics",
+   "description": "Analyze companies with fundamentals before prices.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/stock-analysis.md"
+  },
+  {
+   "id": "etf-investing",
+   "title": "ETF and Index Investing",
+   "description": "Build simple portfolios with broad-market ETFs.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/etf-investing.md"
+  },
+  {
+   "id": "retirement-planning",
+   "title": "Retirement Planning",
+   "description": "Plan retirement with real numbers and assumptions.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/retirement-planning.md"
+  },
+  {
+   "id": "tax-basics",
+   "title": "Personal Tax Basics",
+   "description": "Understand and organize taxes without fear.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/tax-basics.md"
+  },
+  {
+   "id": "financial-statements",
+   "title": "Reading Financial Statements",
+   "description": "Read balance sheets, income, and cash flow like an analyst.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/financial-statements.md"
+  },
+  {
+   "id": "startup-finance",
+   "title": "Startup Finance Basics",
+   "description": "Run startup finances: runway, burn, and cap tables.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/startup-finance.md"
+  },
+  {
+   "id": "cash-flow",
+   "title": "Cash Flow Management",
+   "description": "Manage business cash flow so surprises do not kill.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/cash-flow.md"
+  },
+  {
+   "id": "crypto-wallets",
+   "title": "Crypto Wallets and Safety",
+   "description": "Handle crypto safely: wallets, keys, and hygiene.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/crypto-wallets.md"
+  },
+  {
+   "id": "blockchain-fundamentals",
+   "title": "Blockchain Fundamentals",
+   "description": "Understand blockchains: consensus, blocks, and trust.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/blockchain-fundamentals.md"
+  },
+  {
+   "id": "defi-basics",
+   "title": "DeFi Basics",
+   "description": "Navigate decentralized finance with risk eyes open.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/defi-basics.md"
+  },
+  {
+   "id": "nft-essentials",
+   "title": "NFT and Digital Ownership",
+   "description": "Understand NFTs: standards, utility, and realistic use.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/nft-essentials.md"
+  },
+  {
+   "id": "trading-risk",
+   "title": "Trading Risk Management",
+   "description": "Trade with risk rules that keep you in the game.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/trading-risk.md"
+  },
+  {
+   "id": "technical-analysis",
+   "title": "Technical Analysis Basics",
+   "description": "Read charts: trend, structure, and levels with skepticism.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/technical-analysis.md"
+  },
+  {
+   "id": "crypto-analysis",
+   "title": "Crypto Fundamentals Analysis",
+   "description": "Evaluate crypto projects with on-chain and token lens.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/crypto-analysis.md"
+  },
+  {
+   "id": "solidity-smart-contracts",
+   "title": "Smart Contracts with Solidity",
+   "description": "Write and audit-safe patterns in Solidity.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/solidity-smart-contracts.md"
+  },
+  {
+   "id": "finance-tracking",
+   "title": "Personal Finance Tracking",
+   "description": "Track money with systems you will actually maintain.",
+   "category": "finance-crypto",
+   "categoryLabel": "Finance and Crypto",
+   "file": "skills/finance-crypto/finance-tracking.md"
+  },
+  {
+   "id": "shopify-stores",
+   "title": "Shopify Store Setup",
+   "description": "Launch Shopify stores: themes, products, and checkout.",
+   "category": "ecommerce",
+   "categoryLabel": "Ecommerce",
+   "file": "skills/ecommerce/shopify-stores.md"
+  },
+  {
+   "id": "woocommerce",
+   "title": "WooCommerce Stores",
+   "description": "Run WooCommerce on WordPress without plugin sprawl.",
+   "category": "ecommerce",
+   "categoryLabel": "Ecommerce",
+   "file": "skills/ecommerce/woocommerce.md"
+  },
+  {
+   "id": "product-listings",
+   "title": "Product Listing Optimization",
+   "description": "Write listings that rank in search and convert shoppers.",
+   "category": "ecommerce",
+   "categoryLabel": "Ecommerce",
+   "file": "skills/ecommerce/product-listings.md"
+  },
+  {
+   "id": "product-photography",
+   "title": "Ecommerce Product Photography",
+   "description": "Shoot product photos that sell: light, angles, and consistency.",
+   "category": "ecommerce",
+   "categoryLabel": "Ecommerce",
+   "file": "skills/ecommerce/product-photography.md"
+  },
+  {
+   "id": "amazon-fba",
+   "title": "Amazon FBA Selling",
+   "description": "Sell on Amazon FBA: listing, inventory, and PPC basics.",
+   "category": "ecommerce",
+   "categoryLabel": "Ecommerce",
+   "file": "skills/ecommerce/amazon-fba.md"
+  },
+  {
+   "id": "ebay-selling",
+   "title": "eBay Selling",
+   "description": "Sell on eBay: listings, pricing, and seller health.",
+   "category": "ecommerce",
+   "categoryLabel": "Ecommerce",
+   "file": "skills/ecommerce/ebay-selling.md"
+  },
+  {
+   "id": "dropshipping",
+   "title": "Dropshipping Fundamentals",
+   "description": "Evaluate and run dropshipping with eyes open.",
+   "category": "ecommerce",
+   "categoryLabel": "Ecommerce",
+   "file": "skills/ecommerce/dropshipping.md"
+  },
+  {
+   "id": "print-on-demand",
+   "title": "Print on Demand",
+   "description": "Run POD stores: designs, niches, and platform choice.",
+   "category": "ecommerce",
+   "categoryLabel": "Ecommerce",
+   "file": "skills/ecommerce/print-on-demand.md"
+  },
+  {
+   "id": "cart-recovery",
+   "title": "Cart Abandonment Recovery",
+   "description": "Recover lost carts with emails, retargeting, and UX fixes.",
+   "category": "ecommerce",
+   "categoryLabel": "Ecommerce",
+   "file": "skills/ecommerce/cart-recovery.md"
+  },
+  {
+   "id": "shipping-fulfillment",
+   "title": "Shipping and Fulfillment",
+   "description": "Fulfill orders efficiently from label to doorstep.",
+   "category": "ecommerce",
+   "categoryLabel": "Ecommerce",
+   "file": "skills/ecommerce/shipping-fulfillment.md"
+  },
+  {
+   "id": "ecommerce-support",
+   "title": "Ecommerce Customer Service",
+   "description": "Deliver support that turns buyers into repeat customers.",
+   "category": "ecommerce",
+   "categoryLabel": "Ecommerce",
+   "file": "skills/ecommerce/ecommerce-support.md"
+  },
+  {
+   "id": "ecommerce-cro",
+   "title": "Ecommerce Conversion Optimization",
+   "description": "Lift store conversion with trust, speed, and friction cuts.",
+   "category": "ecommerce",
+   "categoryLabel": "Ecommerce",
+   "file": "skills/ecommerce/ecommerce-cro.md"
+  },
+  {
+   "id": "inventory-management",
+   "title": "Ecommerce Inventory Management",
+   "description": "Manage stock so you neither oversell nor drown in cash in shelves.",
+   "category": "ecommerce",
+   "categoryLabel": "Ecommerce",
+   "file": "skills/ecommerce/inventory-management.md"
+  },
+  {
+   "id": "subscription-commerce",
+   "title": "Subscription Commerce",
+   "description": "Build subscription offers customers keep.",
+   "category": "ecommerce",
+   "categoryLabel": "Ecommerce",
+   "file": "skills/ecommerce/subscription-commerce.md"
+  },
+  {
+   "id": "marketplace-analytics",
+   "title": "Ecommerce Analytics",
+   "description": "Read ecommerce dashboards and act on the right numbers.",
+   "category": "ecommerce",
+   "categoryLabel": "Ecommerce",
+   "file": "skills/ecommerce/marketplace-analytics.md"
+  },
+  {
+   "id": "returns-policy",
+   "title": "Returns and Refunds Policy",
+   "description": "Design returns that protect margin and reputation.",
+   "category": "ecommerce",
+   "categoryLabel": "Ecommerce",
+   "file": "skills/ecommerce/returns-policy.md"
+  },
+  {
+   "id": "ats-resume",
+   "title": "ATS-Ready Resumes",
+   "description": "Beat applicant tracking systems with parseable, keyword-aligned resumes.",
+   "category": "career-development",
+   "categoryLabel": "Career Development",
+   "file": "skills/career-development/ats-resume.md"
+  },
+  {
+   "id": "linkedin-profile",
+   "title": "LinkedIn Profile Optimization",
+   "description": "Turn LinkedIn into an inbound opportunity engine.",
+   "category": "career-development",
+   "categoryLabel": "Career Development",
+   "file": "skills/career-development/linkedin-profile.md"
+  },
+  {
+   "id": "job-search",
+   "title": "Job Search Strategy",
+   "description": "Run a job search like a campaign, not a spray.",
+   "category": "career-development",
+   "categoryLabel": "Career Development",
+   "file": "skills/career-development/job-search.md"
+  },
+  {
+   "id": "interview-prep",
+   "title": "Interview Preparation",
+   "description": "Prepare for interviews with research, stories, and rehearsal.",
+   "category": "career-development",
+   "categoryLabel": "Career Development",
+   "file": "skills/career-development/interview-prep.md"
+  },
+  {
+   "id": "behavioral-interviews",
+   "title": "Behavioral Interviews",
+   "description": "Answer behavioral questions with structured, specific stories.",
+   "category": "career-development",
+   "categoryLabel": "Career Development",
+   "file": "skills/career-development/behavioral-interviews.md"
+  },
+  {
+   "id": "technical-interviews",
+   "title": "Technical Interviews",
+   "description": "Pass technical interviews with fundamentals and communication.",
+   "category": "career-development",
+   "categoryLabel": "Career Development",
+   "file": "skills/career-development/technical-interviews.md"
+  },
+  {
+   "id": "salary-negotiation",
+   "title": "Salary Negotiation",
+   "description": "Negotiate offers with data, silence, and grace.",
+   "category": "career-development",
+   "categoryLabel": "Career Development",
+   "file": "skills/career-development/salary-negotiation.md"
+  },
+  {
+   "id": "career-switch",
+   "title": "Career Switching",
+   "description": "Switch fields with bridging skills and proof of work.",
+   "category": "career-development",
+   "categoryLabel": "Career Development",
+   "file": "skills/career-development/career-switch.md"
+  },
+  {
+   "id": "first-90-days",
+   "title": "First 90 Days Playbook",
+   "description": "Ramp up in a new role with a plan that earns trust.",
+   "category": "career-development",
+   "categoryLabel": "Career Development",
+   "file": "skills/career-development/first-90-days.md"
+  },
+  {
+   "id": "performance-reviews",
+   "title": "Performance Review Preparation",
+   "description": "Own your review with evidence and a growth story.",
+   "category": "career-development",
+   "categoryLabel": "Career Development",
+   "file": "skills/career-development/performance-reviews.md"
+  },
+  {
+   "id": "personal-brand",
+   "title": "Personal Branding",
+   "description": "Build a professional reputation that opens doors.",
+   "category": "career-development",
+   "categoryLabel": "Career Development",
+   "file": "skills/career-development/personal-brand.md"
+  },
+  {
+   "id": "freelance-basics",
+   "title": "Freelancing Fundamentals",
+   "description": "Start freelancing: positioning, clients, and money.",
+   "category": "career-development",
+   "categoryLabel": "Career Development",
+   "file": "skills/career-development/freelance-basics.md"
+  },
+  {
+   "id": "freelance-clients",
+   "title": "Client Management for Freelancers",
+   "description": "Keep clients happy and projects profitable.",
+   "category": "career-development",
+   "categoryLabel": "Career Development",
+   "file": "skills/career-development/freelance-clients.md"
+  },
+  {
+   "id": "remote-work",
+   "title": "Remote Work Success",
+   "description": "Thrive remotely with communication and environment discipline.",
+   "category": "career-development",
+   "categoryLabel": "Career Development",
+   "file": "skills/career-development/remote-work.md"
+  },
+  {
+   "id": "work-life-balance",
+   "title": "Work-Life Balance",
+   "description": "Set boundaries that protect energy and relationships.",
+   "category": "career-development",
+   "categoryLabel": "Career Development",
+   "file": "skills/career-development/work-life-balance.md"
+  },
+  {
+   "id": "mentorship",
+   "title": "Finding and Using Mentors",
+   "description": "Get mentorship that accelerates without imposing.",
+   "category": "career-development",
+   "categoryLabel": "Career Development",
+   "file": "skills/career-development/mentorship.md"
+  },
+  {
+   "id": "bash-automation",
+   "title": "Bash Automation Scripts",
+   "description": "Automate sysadmin and dev chores with safe bash scripts.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/bash-automation.md"
+  },
+  {
+   "id": "powershell-scripting",
+   "title": "PowerShell Scripting",
+   "description": "Automate Windows with objects-first PowerShell.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/powershell-scripting.md"
+  },
+  {
+   "id": "python-automation",
+   "title": "Python Automation Scripts",
+   "description": "Automate files, web, and office chores with Python.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/python-automation.md"
+  },
+  {
+   "id": "scraping-python",
+   "title": "Python Web Scraping",
+   "description": "Scrape at scale with requests, BeautifulSoup, and Playwright.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/scraping-python.md"
+  },
+  {
+   "id": "zapier-automation",
+   "title": "Zapier Automation",
+   "description": "Build Zaps that connect tools without spaghetti.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/zapier-automation.md"
+  },
+  {
+   "id": "make-scenarios",
+   "title": "Make.com Scenarios",
+   "description": "Build Make scenarios with routers, iterators, and error handlers.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/make-scenarios.md"
+  },
+  {
+   "id": "n8n-workflows",
+   "title": "n8n Workflow Automation",
+   "description": "Run self-hosted n8n workflows for serious automation.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/n8n-workflows.md"
+  },
+  {
+   "id": "apps-script",
+   "title": "Google Apps Script",
+   "description": "Automate Google Workspace with Apps Script.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/apps-script.md"
+  },
+  {
+   "id": "excel-vba",
+   "title": "Excel VBA Macros",
+   "description": "Automate Excel with VBA where formulas end.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/excel-vba.md"
+  },
+  {
+   "id": "autohotkey",
+   "title": "AutoHotkey for Windows",
+   "description": "Automate Windows desktops: hotkeys, remapping, and GUIs.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/autohotkey.md"
+  },
+  {
+   "id": "batch-files",
+   "title": "File Batch Processing",
+   "description": "Batch-process thousands of files reliably.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/batch-files.md"
+  },
+  {
+   "id": "pdf-automation",
+   "title": "PDF Automation",
+   "description": "Generate, split, merge, and extract PDFs programmatically.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/pdf-automation.md"
+  },
+  {
+   "id": "email-automation",
+   "title": "Email Automation",
+   "description": "Automate sending, sorting, and parsing email.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/email-automation.md"
+  },
+  {
+   "id": "api-glue",
+   "title": "API Glue Scripts",
+   "description": "Wire APIs together with auth, retries, and mapping.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/api-glue.md"
+  },
+  {
+   "id": "data-sync",
+   "title": "Data Synchronization Automation",
+   "description": "Keep two systems in sync without duplicates.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/data-sync.md"
+  },
+  {
+   "id": "rpa-basics",
+   "title": "RPA Fundamentals",
+   "description": "Automate UI-level work with robots where APIs do not exist.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/rpa-basics.md"
+  },
+  {
+   "id": "cli-mastery",
+   "title": "Command Line Mastery",
+   "description": "Live in the terminal: coreutils, pipes, and modern CLI tools.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/cli-mastery.md"
+  },
+  {
+   "id": "ffmpeg-automation",
+   "title": "FFmpeg Automation",
+   "description": "Batch media processing with ffmpeg: convert, compress, watermark.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/ffmpeg-automation.md"
+  },
+  {
+   "id": "backup-automation",
+   "title": "Backup Automation",
+   "description": "Automate 3-2-1 backups with verification.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/backup-automation.md"
+  },
+  {
+   "id": "monitoring-scripts",
+   "title": "Simple Monitoring Scripts",
+   "description": "Watch websites, services, and disk with alerting.",
+   "category": "automation-scripting",
+   "categoryLabel": "Automation and Scripting",
+   "file": "skills/automation-scripting/monitoring-scripts.md"
+  },
+  {
+   "id": "arduino-fundamentals",
+   "title": "Arduino Fundamentals",
+   "description": "Build Arduino projects: pins, shields, and the sketch loop.",
+   "category": "iot-electronics",
+   "categoryLabel": "IoT and Electronics",
+   "file": "skills/iot-electronics/arduino-fundamentals.md"
+  },
+  {
+   "id": "esp32-projects",
+   "title": "ESP32 Projects",
+   "description": "Build ESP32 projects: WiFi, BLE, and deep sleep.",
+   "category": "iot-electronics",
+   "categoryLabel": "IoT and Electronics",
+   "file": "skills/iot-electronics/esp32-projects.md"
+  },
+  {
+   "id": "raspberry-pi",
+   "title": "Raspberry Pi Setup",
+   "description": "Set up Pi boards as reliable little servers.",
+   "category": "iot-electronics",
+   "categoryLabel": "IoT and Electronics",
+   "file": "skills/iot-electronics/raspberry-pi.md"
+  },
+  {
+   "id": "sensor-interfacing",
+   "title": "Sensor Interfacing",
+   "description": "Interface sensors: I2C, SPI, and analog signal sanity.",
+   "category": "iot-electronics",
+   "categoryLabel": "IoT and Electronics",
+   "file": "skills/iot-electronics/sensor-interfacing.md"
+  },
+  {
+   "id": "gpio-programming",
+   "title": "GPIO Programming",
+   "description": "Drive GPIO safely across platforms.",
+   "category": "iot-electronics",
+   "categoryLabel": "IoT and Electronics",
+   "file": "skills/iot-electronics/gpio-programming.md"
+  },
+  {
+   "id": "iot-mqtt",
+   "title": "IoT with MQTT",
+   "description": "Connect devices with MQTT topics, QoS, and retained messages.",
+   "category": "iot-electronics",
+   "categoryLabel": "IoT and Electronics",
+   "file": "skills/iot-electronics/iot-mqtt.md"
+  },
+  {
+   "id": "home-automation",
+   "title": "Home Automation Building",
+   "description": "Automate a home with sensors, scenes, and privacy.",
+   "category": "iot-electronics",
+   "categoryLabel": "IoT and Electronics",
+   "file": "skills/iot-electronics/home-automation.md"
+  },
+  {
+   "id": "3d-printing",
+   "title": "3D Printing Basics",
+   "description": "Get reliable prints: slicing, adhesion, and calibration.",
+   "category": "iot-electronics",
+   "categoryLabel": "IoT and Electronics",
+   "file": "skills/iot-electronics/3d-printing.md"
+  },
+  {
+   "id": "pcb-design",
+   "title": "PCB Design Basics",
+   "description": "Design simple PCBs: schematic to fab-ready gerbers.",
+   "category": "iot-electronics",
+   "categoryLabel": "IoT and Electronics",
+   "file": "skills/iot-electronics/pcb-design.md"
+  },
+  {
+   "id": "soldering",
+   "title": "Soldering Skills",
+   "description": "Solder through-hole and SMD with confidence.",
+   "category": "iot-electronics",
+   "categoryLabel": "IoT and Electronics",
+   "file": "skills/iot-electronics/soldering.md"
+  },
+  {
+   "id": "circuits-basics",
+   "title": "Basic Electronics",
+   "description": "Understand circuits: Ohm, dividers, and reading schematics.",
+   "category": "iot-electronics",
+   "categoryLabel": "IoT and Electronics",
+   "file": "skills/iot-electronics/circuits-basics.md"
+  },
+  {
+   "id": "robotics-basics",
+   "title": "Robotics Basics",
+   "description": "Build simple robots: drive, sense, and behave.",
+   "category": "iot-electronics",
+   "categoryLabel": "IoT and Electronics",
+   "file": "skills/iot-electronics/robotics-basics.md"
+  },
+  {
+   "id": "smart-agriculture",
+   "title": "Smart Agriculture IoT",
+   "description": "Build farm/garden monitoring: soil, weather, and watering.",
+   "category": "iot-electronics",
+   "categoryLabel": "IoT and Electronics",
+   "file": "skills/iot-electronics/smart-agriculture.md"
+  },
+  {
+   "id": "wearables-basics",
+   "title": "Wearables Basics",
+   "description": "Build simple wearables: comfort, power, and washability.",
+   "category": "iot-electronics",
+   "categoryLabel": "IoT and Electronics",
+   "file": "skills/iot-electronics/wearables-basics.md"
+  }
+ ]
+}
