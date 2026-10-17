@@ -1,4 +1,4 @@
-# forge-skills
+# abra-skills
 
 The skill library for **Abra Desktop** — **515 ready-made English skills** across 25 categories, fetched live by the app (Skills view → Skill library) and installable into any workspace with one click.
 
