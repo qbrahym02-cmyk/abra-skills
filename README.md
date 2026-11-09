@@ -1,6 +1,6 @@
 # abra-skills
 
-The skill library for **Abra Desktop** — **515 ready-made English skills** across 25 categories, fetched live by the app (Skills view → Skill library) and installable into any workspace with one click.
+The skill library for **Abra Desktop** — **541 skills across 26 categories** (515 English originals + the 26 bilingual **Frontend Craft** v10.5 originals authored in-house: design taste, award-grade sites, 3D/WebGL, motion, effects, reference analysis, security, writing), fetched live by the app (Skills view → Skill library) and installable into any workspace with one click.
 
 | Category | id | skills |
 |---|---|---|
@@ -29,6 +29,7 @@ The skill library for **Abra Desktop** — **515 ready-made English skills** acr
 | Career Development | `career-development` | 16 |
 | Automation and Scripting | `automation-scripting` | 20 |
 | IoT and Electronics | `iot-electronics` | 14 |
+| Frontend Craft (v10.5 originals) | `frontend-craft` | 26 |
 
 ## Format
 

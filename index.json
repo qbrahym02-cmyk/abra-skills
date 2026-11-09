@@ -2,8 +2,8 @@
  "name": "abra-skills",
  "description": "The Abra skill library - 500+ ready-made English skills for the Abra Desktop agent.",
  "version": 1,
- "generated": "2026-10-09T19:59:26.033Z",
- "count": 515,
+ "generated": "2026-11-09T21:09:50.424Z",
+ "count": 541,
  "categories": [
   {
    "id": "web-development",
@@ -129,6 +129,11 @@
    "id": "iot-electronics",
    "label": "IoT and Electronics",
    "count": 14
+  },
+  {
+   "id": "frontend-craft",
+   "label": "Frontend Craft",
+   "count": 26
   }
  ],
  "skills": [
@@ -4251,6 +4256,214 @@
    "category": "iot-electronics",
    "categoryLabel": "IoT and Electronics",
    "file": "skills/iot-electronics/wearables-basics.md"
+  },
+  {
+   "id": "design-critique",
+   "title": "Design Critique",
+   "description": "Run a seven-lens critique (hierarchy, alignment, contrast, rhythm, crowding, edge cases, RTL) on any interface before delivery, then fix what the shots reveal.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/design-critique.md"
+  },
+  {
+   "id": "visual-polish",
+   "title": "Visual Polish Pass",
+   "description": "The final 5% that separates designed from generated: pixel discipline, the four interactive states, edge and surface craft, type final pass.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/visual-polish.md"
+  },
+  {
+   "id": "design-bolder",
+   "title": "Design Bolder",
+   "description": "Amplify a correct-but-forgettable design: type mass, scale contrast, saturation, one structural move — boldness as a gap, not noise.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/design-bolder.md"
+  },
+  {
+   "id": "design-quieter",
+   "title": "Design Quieter",
+   "description": "Subtract visual noise: budget attention-callers to three per viewport, gray the non-essential ink, let whitespace do the luxury work.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/design-quieter.md"
+  },
+  {
+   "id": "micro-delight",
+   "title": "Micro-Delight Interactions",
+   "description": "Feedback within 100ms for every touch: press states, working states, success moments, list changes — informative, never confetti.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/micro-delight.md"
+  },
+  {
+   "id": "design-system-extraction",
+   "title": "Design System Extraction",
+   "description": "Extract a working token system (color roles, type scale, space unit, shape, motion) from any reference site or file, measured not guessed.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/design-system-extraction.md"
+  },
+  {
+   "id": "awwwards-site-quality",
+   "title": "Awwwards Site Quality",
+   "description": "The award-grade method: a subject-obsessed concept, one signature gesture, section beat rhythm, editorial craft, and a walked-through ship loop.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/awwwards-site-quality.md"
+  },
+  {
+   "id": "landing-page-craft",
+   "title": "Landing Page Craft",
+   "description": "Persuasion engineering for landing pages: a 5-second fold, a doubt-ladder section sequence, and exactly one primary action.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/landing-page-craft.md"
+  },
+  {
+   "id": "pricing-page-craft",
+   "title": "Pricing Page Craft",
+   "description": "Pricing as decision engineering: honest plan anatomy, a recommended plan with a reason, trust furniture, and zero dark patterns.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/pricing-page-craft.md"
+  },
+  {
+   "id": "frontend-stack-map",
+   "title": "Frontend Stack Map",
+   "description": "Choose the delivery lane honestly (zero-build / Vite / Next), pin CDN versions, and treat component libraries as idea catalogs, not personality.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/frontend-stack-map.md"
+  },
+  {
+   "id": "threejs-scene-craft",
+   "title": "Three.js Scene Craft",
+   "description": "A correct scene from the first run: 3-point lighting, ACES tone mapping, DPR caps, one rAF loop, offscreen pause, and full dispose.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/threejs-scene-craft.md"
+  },
+  {
+   "id": "threejs-worlds",
+   "title": "Three.js Worlds",
+   "description": "Build coherent 3D worlds: a five-line world bible, terrain and sky without seams, instanced set dressing, and a scroll-driven camera journey.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/threejs-worlds.md"
+  },
+  {
+   "id": "webgl-hero-object",
+   "title": "WebGL Hero Object",
+   "description": "One meaningful 3D subject inside a normal page: generated or compressed GLTF, brand-native materials, tactile interaction, performance floors.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/webgl-hero-object.md"
+  },
+  {
+   "id": "webgl-backgrounds",
+   "title": "WebGL Backgrounds",
+   "description": "Living backgrounds that serve the foreground: gradient blobs, grain fields, flow particles, structural grids — contrast-safe and pointer-transparent.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/webgl-backgrounds.md"
+  },
+  {
+   "id": "interactive-globe",
+   "title": "Interactive Globe",
+   "description": "The globe as a story device: dotted or wireframe sphere, clickable markers, drawn arcs, idle rotation that yields to the user hand.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/interactive-globe.md"
+  },
+  {
+   "id": "motion-systems",
+   "title": "Motion Systems",
+   "description": "One declared motion language per site (duration scale, easing family, stagger law), one engine per property, one orchestrator that sleeps.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/motion-systems.md"
+  },
+  {
+   "id": "scroll-storytelling",
+   "title": "Scroll Storytelling",
+   "description": "Turn scroll into a timeline: a 3–5 beat storyboard, one pinned container, scrubbed progress, clean beat hand-offs, mobile fallback.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/scroll-storytelling.md"
+  },
+  {
+   "id": "text-motion-reveal",
+   "title": "Text Motion Reveal",
+   "description": "Headline choreography: masked word staggers (Arabic-safe splitting on spaces), line reveals, clip wipes, scrub highlights, seamless marquees.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/text-motion-reveal.md"
+  },
+  {
+   "id": "pointer-ambient-motion",
+   "title": "Pointer Ambient Motion",
+   "description": "The page feels the cursor: light-follow glow, trails, click ripples, particle lean — one species per page under one budgeted rAF loop.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/pointer-ambient-motion.md"
+  },
+  {
+   "id": "advanced-visual-effects",
+   "title": "Advanced Visual Effects",
+   "description": "The expensive-surface catalog with recipes and when: gooey blobs, liquid sheen, progressive blur, layered shadows, duotone, beam states.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/advanced-visual-effects.md"
+  },
+  {
+   "id": "css-craft-details",
+   "title": "CSS Craft Details",
+   "description": "The CSS moves that read as deep craft: honest gradient borders, alpha masks, background grids, optical alignment, matching focus rings.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/css-craft-details.md"
+  },
+  {
+   "id": "reference-analysis",
+   "title": "Reference Analysis",
+   "description": "Learn from references honestly: capture evidence, extract an explicit directive, build an original, and pass the side-by-side originality audit.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/reference-analysis.md"
+  },
+  {
+   "id": "motion-performance",
+   "title": "Motion Performance",
+   "description": "Measure before shipping: an FPS probe in the browser, the six usual jank suspects, the repair kit, and a numbers-in-the-delivery ship gate.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/motion-performance.md"
+  },
+  {
+   "id": "signature-visual-styles",
+   "title": "Signature Visual Styles",
+   "description": "Six named starting grammars — luxe editorial, dark glass, technical paper, bold geometric, cinematic haze, grid system — each with its bend.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/signature-visual-styles.md"
+  },
+  {
+   "id": "security-hardening",
+   "title": "Security Hardening",
+   "description": "Fix vulnerabilities like an attacker and prove it like an auditor: attack-surface inventory, OWASP-minded sweep, risk-ranked patches, re-attack evidence.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/security-hardening.md"
+  },
+  {
+   "id": "writing-craft",
+   "title": "Writing Craft",
+   "description": "Write with purpose: the one-outcome brief, structure before prose, the harsh deletion pass, and tone calibrated to the reader.",
+   "category": "frontend-craft",
+   "categoryLabel": "Frontend Craft",
+   "file": "skills/frontend-craft/writing-craft.md"
   }
  ]
 }
